@@ -1,0 +1,35 @@
+﻿INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule III Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31,2011
+Initial Cost (A)	_Gross amount at which carried at end of period______
+Date of Completion
+Adjustments	of
+to Land	Construction
+Buildings and Basis Adjustments Land and Buildings and	Accumulated	or
+Encumbrance Land Improvements (C) to Basis (C) Improvements Improvements (D) Total (D,E) Depreciation (D,F) Acquisition
+SUNTRUST E FLORIDA	1,080	1,095	638	— 2	1,095	640	1,735	94	2007
+Hudson, FL									
+SUNTRUST II FLORIDA	1,016	1,030	600	— 2 .	1,030	602	1,632	88	2007
+Port Orange, FL									
+SUNTRUST n GEORGIA	1,497	1,399	1,057	(37)	1,399	1,021	2,420	150	2007
+Atlanta, GA									
+SUNTRUST II GEORGIA	963	900	680	- (24)	900	657	1,557	96	2007
+Bowden, GA									
+SUNTRUST II GEORGIA	471	440	333	- (12)	440	321	761	47	2007
+Cedartown, GA									
+SUNTRUST II GEORGIA	1,203	1,124	849	- (29)	1,124	820	1,944	120	2007
+St. Simons Island, GA									
+SUNTRUST D GEORGIA	1,855	1,734	1,310	(45)	1,734	1,264	2,998	185	2007
+Dunwoody, GA									
+SUNTRUST D GEORGIA	1,093	1,022	772	- (27)	1,022	745	1,767	109	2007
+Atlanta, GA									
+SUNTRUST n GEORGIA	1,081	1,010	763	(26)	1,010	737	1,747	108	2007
+Jessup, GA									
+SUNTRUST n GEORGIA	170	159	120	(4)	159	116	274	17	2007
+Brunswick, GA									
+SUNTRUST n GEORGIA	1,356	1,268	958	(33)	1,268	924	2,192	135	2007
+Roswell, GA									
+SUNTRUST II GEORGIA	1,488	1,391	1,051	(36)	1,391	1,014	2,406	149	2007
+Norcross, GA									

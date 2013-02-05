@@ -1,0 +1,26 @@
+﻿MORGAN STANLEY CHARTER ASPECT L.P.
+STATEMENTS OF CASH FLOWS
+_For the Years Ended December 31,_
+2007	2006	2005
+$	$	$
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income (loss) ................................. 5,773,935	14,456,362	(44,301,832)
+Noncash item included in net income (loss):
+Net change in unrealized....................... (265,340)	2,621,922	5,603,030
+(Increase) decrease in operating assets:
+Restricted cash................................ (613,553)	(1,731,359)	10,908,773
+Interest receivable (MS&Co.).................... 121,095	2,447	(142,089)
+Increase (decrease) in operating liabilities:
+Accrued brokerage fees (MS&Co.)................ 36,004	(156,405)	(365,305)
+Accrued management fees...................... 12,001	(52,135)	(106,710)
+Accrued incentive fee.......................... (1,017,989)	1,017,989	—
+Net cash provided by (used for) operating activities____ 4,046,153	16,158,821	(28,404,133)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Cash received from offering of Units ................. 27,741,173	13,509,630	26,817,698
+Cash paid for redemptions of Units.................. (27,224,419)	(50,752,969)	(58,958,439)
+Net cash provided by (used for) financing activities .... 516,754	(37,243,339)	(32,140,741)
+Net increase (decrease) in unrestricted cash........... 4,562,907	(21,084,518)	(60,544,874)
+Unrestricted cash at beginning of period............... 109,217,402	130,301,920	190,846,794
+Unrestricted cash at end of period................... 113,780,309	109,217,402	130,301,920
+The accompanying notes are an integral part of these financial statements.
+F-14

@@ -1,0 +1,36 @@
+﻿
+INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule III Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31, 2011
+Initial Cost (A)	_Gross amount at which carried at end of period_
+Date of Completion
+Adjustments	of
+to Land	Construction
+Buildings and Basis Adjustments Land and Buildings and	Accumulated	or
+Encumbrance Land Improvements (C) to Basis (C) Improvements Improvements (D) Total (D,E) Depreciation (D,F) Acquisition
+CITIZENS (CFG) PENNSYLVANIA	988	50	1,106	—	(0)	50	1,106	1,156	186	2007
+Ford City, PA										
+CITIZENS (CFG) PENNSYLVANIA	1,544	385	1,727	—	(0)	385	1,727	2,112	290	2007
+Glenside, PA										
+CITIZENS (CFG) PENNSYLVANIA	813	125	909	—	(0)	125	909	1,034	153	2007
+Greensburg, PA										
+CITIZENS (CFG) PENNSYLVANIA	975	300	1,092	—	(0)	300	1,091	1,391	183	2007
+Highspire, PA										
+CITIZENS (CFG) PENNSYLVANIA	902	100	1,009	—	(0)	100	1,009	1,109	169	2007
+Homestead, PA										
+CITIZENS (CFG) PENNSYLVANIA	1,516	300	1,697	—	(0)	300	1,696	1,996	285	2007
+Kingston, PA										
+CITIZENS (CFG) PENNSYLVANIA	1,240	50	1,388	—	(0)	50	1,388	1,438	233	2007
+Kittanning, PA										
+CITIZENS (CFG) PENNSYLVANIA	1,625	330	1,819	—	(0)	330	1,819	2,149	305	2007
+Matamoras, PA										
+CITIZENS (CFG) PENNSYLVANIA	1,034	100	1,157	—	(0)	100	1,157	1,257	194	2007
+McKees Rocks, PA										
+CITIZENS (CFG) PENNSYLVANIA	2,619	250	2,931	—	(0)	250	2,931	3,181	492	2007
+Mechanicsburg, PA										
+CITIZENS (CFG) PENNSYLVANIA	465	40	521	—	(0)	40	520	560	87	2007
+Mercer, PA										
+CITIZENS (CFG) PENNSYLVANIA	1,450	275	1,623	—	(0)	275	1,623	1,898	273	2007
+Milford, PA

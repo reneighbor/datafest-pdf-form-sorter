@@ -1,0 +1,13 @@
+﻿"Net Profit" or "Net Loss" means the amount by which the Net Assets as of the close of business on the last day of a Fiscal Period exceed (in the case of Net Profit) or are less than (in the case of Net Loss) the Net Assets as of the commencement of the same Fiscal Period (or, with respect to the initial Fiscal Period of the Partnership, at the close of business on the Closing Date), the amount of any Net Profit or Net Loss to be adjusted to exclude any items to be allocated among the Capital Accounts of the Partners on a basis that is not in accordance with the Investment Percentages of all Partners as of the commencement of the Fiscal Period in accordance with Section 5.6 of this Agreement.
+"Offering Materials" means the Memorandum and subscription materials provided to prospective Limited Partners in connection with an investment to be made in the Partnership.
+"Organizational Limited Partner" means David B, Perkins.
+"Partners" means the General Partner(s) and the Limited Partners, collectively, and "Partner" means any General Partner or Limited Partner.
+"Partnership" means Hatteras Core Alternatives Fund, L.P. and any partnership continuing the business of the Partnership after dissolution as provided in this Agreement.
+"Person" means any individual, entity, corporation, partnership, limited liability company, joint stock company, trust, estate, joint venture, or unincorporated organization.
+"Securities" means securities (including, without limitation, equities, debt obligations, options, and other "securities" as that term is defined in Section 2(a)(36) of the 1940 Act) and any contracts for forward or future delivery of any security, debt obligation, currency or commodity, all manner of derivative instruments and any contracts based on any index or group of securities, debt obligations, currencies or commodities, and any options on those contracts.
+"Transfer" means the assignment, transfer, sale or other disposition of all or any portion of an Interest, including any right to receive any allocations and distributions attributable to an Interest. Verbs, adverbs or adjectives such as "Transfer," "Transferred" and "Transferring" have correlative meanings.
+"Valuation Date" means any date upon which the net asset value of the Units are valued for purposes of a repurchase, as determined by the Board of Directors.
+ARTICLE II
+ORGANIZATION; ADMISSION OF PARTNERS; DIRECTORS
+SECTION 2.1 Formation of Limited Partnership, (a) The Partnership is formed as a limited partnership pursuant to the Certificate and this Agreement. The Partners agree that their rights, duties and liabilities will be as provided in the Delaware Act, except as otherwise
+-5-

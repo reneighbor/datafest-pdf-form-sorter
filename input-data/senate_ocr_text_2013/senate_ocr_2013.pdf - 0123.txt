@@ -1,0 +1,25 @@
+﻿Reporting Individual's Name
+Hatch, Orrin G.
+TRANSACTIONS (continued)
+(use only if needed)
+Page Number 2
+Identification of Assets		Transaction Type (x)			Transaction Date (Mo., Day, Yr.)	$1,001 -$15,000	$15,001 -$50,000	$50,001 - $100,000	$100,001 -$250,000	$250,001 - $500,000	$500,001 -$1,000,000	* * * o o o o o CD tO i— <D > O	$1,000,001 -$5,000,000	$5,000,001 - $25,000,000	$25,000,001 - $50,000,000	Over $50,000,000
+		Purchase	Sale	Exchange												
+1	KKR Financial Holdings LLC (stock) NYSE		X		12/26/2012	X										
+2	iShares MSCI ACWi Index Fund (stock) NASDAQ		X		12/26/2012		X									
+3	Gilead Sciences Inc (stock) NASDAQ		X		12/26/2012	X										
+4	Qualcomm Inc (stock) NASDAQ		X		12/26/2012	X										
+5	Oracle Corp (stock) NASDAQ		X		12/26/2012	X										
+6	Nestle SA (stock) OTC Pink		X		12/26/2012	X										
+7	Merck & Co Inc (stock) NYSE		X		12/26/2012	X										
+8	Target Corp (stock) NYSE		X		12/26/2012	X										
+9	Seadrill Ltd (stock) NYSE		X		12/26/2012	X										
+10	Schlumberger NV (stock) NYSE		X		12/26/2012	X										
+11	Royal Dutch Shell PLC (stock) NYSE		X		12/26/2012		X									
+12	Vanguard Small Cap ETF (stock) NYSE		X		12/26/2012	X										
+13	Wells Fargo & Co (stock) NYSE		X		12/26/2012	X										
+14	Colgate - Palmolive Co (stock) NYSE		X		12/26/2012	X										
+15	iShares MSCI ACWI Index Fund (stock) NASDAQ		X		12/10/2012	X										
+16																
+17																
+Amount of Transaction (x)

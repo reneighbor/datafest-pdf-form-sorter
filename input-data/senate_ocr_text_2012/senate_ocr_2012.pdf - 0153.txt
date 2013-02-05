@@ -1,0 +1,24 @@
+﻿Christopher A. Coons
+IRA		
+As of 12/31/2011		
+Security Description	Ticker	Total Value
+Fidelity Cash Reserves	FDRXX	8,736.02
+Oppenheimer Commod Stra Tot	QRANX	5,081.41
+Oppenheimer Gold & Spl Minerals	OGMNX	14,853.89
+Oppenheimer Inter'l Small Company	OSMNX	9,222.58
+Oppenheimer Internat'l Grow CI N	OIGNX	8,722.18
+Oppenheimer Quest Int'l Value CI N	QIVNX	5,972.63
+Oppenheimer Real Estate Fd CI N	ORENX	8,269.65
+Oppenheimer Small & Mid Cap Value	QSCNX	15,259.26
+Oppenheimer Value Fund Class N	CGRNX	31,084.40
+Oppenheimer Internat'l Bond CI N	OIBNX	22,849.99
+Sentinel Short Matur Govt Fd CI S	SSSGX	20,716.31
+TOTAL		150,768.32
+Ann M.Coons		
+IRA		
+As of 12/31/2011		
+Security Description	Ticker	Total Value
+Fidelity Cash Reserves	FDRXX	371.43
+Virtus Alpha Sector Rotation CI C	PWBCX	32,521.63
+Virtus Foreign Opportunities CI C	JVICX	4,052.14
+TOTAL		36,945.20

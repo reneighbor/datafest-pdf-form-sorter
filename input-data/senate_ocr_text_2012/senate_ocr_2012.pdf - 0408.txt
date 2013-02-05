@@ -1,0 +1,49 @@
+﻿-ay
+
+PART mA. PUBLICLY TRADED ASSETS AND UNEARNED INCOME SOURCES
+Reporting Individual's Name ^
+BLOCK A	If
+Identity of Publicly Traded Assets and Unearned Income Sources
+Report the complete name of each publicly traded asset held by you, your spouse, or your dependent child, (See p.3. CONTENTS OF REPORTS Part B of Instructions) for production of income or investment which:
+(1)	had a value exceeding $1,000 at the close of the reporting period; and/or
+(2)	generated over $200 in "unearned" income during the reporting period.
+Include on this PART IIIA a complete identification of each public bond, mutual fund, publicly traded partnership interest, excepted investment funds, bank accounts, excepted and qualified blind trusts, and publicly traded assets of a
+retirement,plan._
+Senator Orrin G. Hatch
+Page Number
+BLOCK B Valuation of Assets
+At the close of reporting period. If None, or less than $1,001, Check the first column.
+BLOCK C Type and Amount of Income If "None (or less than $201)" is Checked, no other entry is needed in Block C for that item. This includes income received or accrued to the benefit of the individual.
+Type of Income
+»
+a
+b
+Other (Specify Type)
+Amount of Income
+&
+K
+S
+&
+Actual Amount
+Required if
+"other Specified
+S, DC or J
+Example
+IBM Corp. (stock)
+Example
+Example
+Keystone Fund
+Example
+Example
+67
+Kayne Anderson MLP Investment Co
+68
+Natixis Vaughan Nelson Small Cap Value Fund A
+69
+Loomis Sayles Investment Grade Bond Fund Class A
+70
+Pimco Total Return Fund Class A
+71
+IVA Worldwide Fund
+72
+Permanent Portfolio Fund Inc._

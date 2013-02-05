@@ -1,0 +1,35 @@
+﻿INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule III Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31,2011
+Initial Cost (A)	_Gross amount at which carried at end of period_
+Date of Completion
+Adjustments	of
+to Land	Construction
+Buildings and Basis Adjustments Land and Buildings and	Accumulated	or
+Encumbrance Land Improvements (C) to Basis (C) Improvements Improvements (D) Total (D,E) Depreciation (D,F) Acquisition
+IDS CENTER	149,851	24,900	202,016	—	20,240	24,900	222,256	247,156	42,074	2007
+Minneapolis, MN										
+KINROSS LAKES	10,065	825	14,639	—	50	825	14,689	, 15,514	2,568	2005
+Richfield, OH										
+MCP ONE	5,832	451	2,861	—	—	451	2,861	3,311	384	2009
+Indianapolis, IN										
+MCP TWO	12,450	1,990	9,820	—	76	1,990	9,896	11,886	1,608	2009
+Indianapolis, IN										
+MCP THREE	11,700	2,251	7,178	—	133	2,251	7,311	9,561	511	2010
+Indianapolis, IN										
+MIDLOTHIAN MEDICAL	8,552	—	9,041	—	113	—	9,153	9,153	1,087	2009
+Midlothian, VA										
+REGIONAL ROAD	8,679	950	10,501	—	122	950	10,623	11,573	2,000	2006
+Greensboro, NC										
+SANOFI AVENTIS	190,000	16,900	192,987	—	2,621	16,900	195,608	212,508	19,981	2009
+Bridge water, NJ										
+SANTEE—CIVIC CENTER	12,023	—	17,838	—	413	—	18,251	18,251	3,193	2005
+Santee, CA										
+SUNTRUST OFFICE I FL	1,135	5,700	2,417	—	(3)	5,700	2,414	8,114	361	2007
+Bal Harbour, FL										
+SUNTRUST OFFICE I FL	171	315	363	—	(1)	315	363	678	54	2007
+Bushnell, FL										
+SUNTRUST OFFICE I FL	311	1,260	662	—	(1)	1,260	661	1,921	99	2007
+Melbourne, FL										

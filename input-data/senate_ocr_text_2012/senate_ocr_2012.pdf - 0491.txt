@@ -1,0 +1,23 @@
+﻿Capital Advisors Securities Assets Schedule IIIA
+ATTACHMENT-PART IIIA-PUBLICLY TRADED ASSETS AND UNEARNED INCOME SOURCES
+Category
+Year End Type Amount of
+	Asset and/or Income Source	Value	Income	Income
+s	F&M Bank & Trust-Tu Is a (Account)	6	d	D
+J	Congressional Federal Credit Unlon(Account)	1	d	A
+s	Arvest Bank & Trust-Tu lsa( Account)-N AM E CHANGE	6	d	B
+s	Stillwater National Bank-Tulsa(Account)	6	d	C
+s	Ford Motor Co.(Stock)	3	a	A
+s	Dean Witter Discover	2	a	A
+s	Dean Witter Stock	2	a	A
+s	Visteon Corporation (Spinoff of Ford Motor Co.)	2	a	A
+s	Citigroup Inc.(Transfer from The Associates*)	3	a	A
+s	ONB Bank & Trust	5	d	F
+J	Capital Advisors(Schedule Attached)			
+'inherited by Kay Inhofe
+fcft iM
+m
+o
+to 0
+0 0
+O p

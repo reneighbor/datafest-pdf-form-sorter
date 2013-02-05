@@ -1,0 +1,22 @@
+﻿rvrvr* rvc ^ i n ^
+VVV-OWV t A A J <-
+Reporting Individual's Name Lieberman, Joseph 1.			PART VIII. POSITIONS HELD OUTSIDE U.S. GOVERNMENT				Page Number 30
+Report any positions held by you during the applicable reporting period whether compensated or not. Positions include, but are not limited to those of an officer, director, trustee, general partner, proprietor, representative, employee, or consultant of any corporation, firm, partnership, or other business enterprise or any non-profit organization or educational institution. Both the year and month must be reported for the period of time that the position was held.							
+Exclude: Positions with federal government, religious, social, fraternal, or political entities, and those solely of an honorary nature.							
+Name of Organization			Address (City, State)	Type of Organization	Position Held	From (Mo/Yr)	To (Mo/Yr)
+Example:		National Assn. of Rock Collectors	NY,NY EXAMPLE	Non-profit education	President	6/91	Present
+		Jones & Smith	Hometown, USA EXAMPLE	Law Firm	Partner	7/96	11/1X
+1	Center for Excellence in Education		McLean, VA	Non-profit education	Board of Trustees (honorary)	11/93	Present
+2	The Begin-Sadat Center for Strategic Studies		Bar-llan University, Israel	Non-profit think tank	International Advisory Board	12/93	Present
+3	Estate of Bernard L. Manger		Stamford, CT	Estate	Co-Executor	9/95	Present
+4	The National Campaign to Prevent Teen and Unplanned Pregnancy		Washington, D.C.	Non-profit education	Co-Chair Senate Advisory Panel	2/96	Present
+5	Manger Family Trust		Stamford, CT	Family Trust	Co-Trustee	11/96	Present
+6	The Peres Center for Peace		Tel Aviv, Israel	Non-profit education and development	International Board of Governors (Honorary)	6/97	Present
+7	B.L. Manger Foundation		Stamford, CT	Non-profit charity	President	8/97	Present
+8	International Executive Service Corps		Stamford, CT	Non-profit international development	Advisory Council 'inactive	6/00	Present
+9	Partnership for Public Service		Washington, D.C.	Non-partisan, non-profit organization promoting public service	Advisory Board of Governors	5/01	Present
+10	Hadassah Lieberman Revocable Trust Agreement		Connecticut	Marital Trust	Trustee	12/01	Present
+11	The Faith and Politics Institute		Washington, D.C.	Non-partisan, interfaith non-profit	Congressional Advisory Council	6/05	Present
+12	The Connecticut Policy Institute		New Haven, CT	Non-partisan, not-for-profit research organization	Advisory Board (honorary)	6/12	Present
+13							
+Compensation in excess of $200 from any position must be reported in Part II.							

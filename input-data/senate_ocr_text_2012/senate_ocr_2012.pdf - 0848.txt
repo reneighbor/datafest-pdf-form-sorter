@@ -1,0 +1,37 @@
+﻿BG080 5 9 392 5
+INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule III Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31,2011
+Initial Cost (A)
+Gross amount at which carried at end of period
+Adjustments to Land
+Buildings and Basis Adjustments Land and Buildings and	Accumulated
+Encumbrance Land Improvements (C) to Basis (C) Improvements Improvements (D) Total (D,E) Depreciation (D,F)
+Date of Completion of
+Construction or
+Acquisition
+SUNTRUST BANKISC	502	350	878	—	(1)	350	878	1,228	131	2007
+Mauldin, SC										
+SUNTRUST BANK ISC	466	160	816	—	(0)	160	815	975	122	2007
+Greenville, SC										
+SUNTRUST BANK ISC	353	360	618	—	(0)	360	617	977	92	2007
+Greenville, SC										
+SUNTRUST BANK ISC	681	800	1,192	—	(1)	800	1,192	1,992	178	2007
+Greenville, SC										
+SUNTRUST BANK I TN	286	240	319	—	(0)	240	319	559	48	2007
+Kingsport, TN										
+SUNTRUST BANK I TN	209	370	234	—	(0)	370	233	603	35	2007
+Morristown, TN										
+SUNTRUST BANK I TN	928	1,110	1,036	—	(1)	1,110	1,035	2,145	155	2007
+Brentwood, TN										
+SUNTRUST BANK I TN	835	1,100	932	—	(1)	1,100	931	2,031	139	2007
+Brentwood, TN										
+SUNTRUST BANK I TN	921	1,450	1,028	—	(1)	1,450	1,027	2,477	154	2007
+Nashville, TN										
+SUNTRUST BANK I TN	314	675	350	—	(0)	675	. 350	1,025	52	2007
+Nashville, TN										
+SUNTRUST BANK I TN	359	250	400	—	(0)	250	400	650	60	2007
+East Ridge, TN										
+SUNTRUST BANK I TN	782	735	872	—	(1)	735	872	1,607	130	2007

@@ -1,0 +1,27 @@
+﻿OQOGD802S7 3
+Reporting Individual's Name: Claire McCaskil!
+PART IIIA. PUBLICLY TRADED ASSETS AND UNEARNED INCOME SOURCES
+	Block A Identity of Publicly Traded Assets		Block B Valuation of Assets								Block C Type and Amount of Income																
+	and Unearned Income Sources	At Close of Reporting Period									Type of Income								Amount of Income								
+S, DC or J	Name	None (or less than $1,001)	$1,001-$15,000	$15,001-$50,000	S50,001 -$100,000	$100,001-$250,000	$250,001-$500,000	$500,001-$1,000,000	Over 51,000,000 +**		Dividends	Rent	Interest	Capita! Gains	Excepted Investment Fund	Excepted Trust	Qualified Blind Trust	Other (Specify)	None (or less than $201)	$201-$1,000	$1,001-52,500	$2,501-$5,000	$5,001 -$ 15,000	o o o^ <o oo o	o o <o o~ o o CD cT </->	$100,001-$ 1,000,000	# * * o o o o o o <y > O
+S	GNMA PL 587609					X							X										X				
+s	GNMA PL 603072				X								X									X					
+s	GNMA PL 603915				X								X									X					
+s	GNMA PL 642573				X								X									X					
+s	GNMA PL 649540						X						X											X			
+s	GNMA PL 650350			X									X								X						
+s	GNMA PL 658729			X									X								X						
+s	GNMA PL 781483			X									X								X						
+s	Home Depot Inc. 5.400% 03/01/16	X											X	X									X				
+s	ING International SmallCap Multi					X					X				X						X						
+s	ING Intl Real Estate FD(M) CL I				X						X				X							X					
+s	IShares Regional Banks Index Fund				X						X				X						X						
+s	IShares S&P Midcap 400-Growth					X					X				X					X							
+s	IShares S&P Midcap 400-Value					X					X				X						X						
+s	IShares TR MSCI EAFE FD				X						X				X						X						
+s	IShares TR Russell.2000-Growth				X						X				X					X							
+s	IShares TR Russell 2000-Value			X							X				X					X							
+s	IShares TR S&P Midcap 400 Index Fund		X								X				X				X								
+s	John Deere Capital Corp. 2.875% 6/19/12	X											X	X						X							
+s	Johnson & Johnson				X						X											X					
+s	JPM 3.700% 01/20/15	X											X	X							X						

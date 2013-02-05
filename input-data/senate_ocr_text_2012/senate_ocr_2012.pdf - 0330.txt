@@ -1,0 +1,13 @@
+﻿Secretary of the Senate
+May 15, 2012
+Page 19
+Valuation Methods
+Traded securities are valued at quoted market value or at fair market value.
+Non-traded securities are valued at fair market value based on factors such as cost, projected profits, projected cash flows and comparisons with similar businesses.
+Real estate investments are valued at cost or at estimated value.
+Partnership interests are valued based on a computation of pro rata share of the estimated net fair value of the partnership as recorded for financial statement reporting purposes.
+Assets held as nominee for others are excluded from the report.
+Income Determination Methods
+Dividends, interest and salary are reported in the period received. In the case of interest earned on notes receivable, interest is reported as the amount accrued.
+Capital gains are reported in the period realized. For individual securities, capital gains are reported net of offsetting losses realized during the reporting period. Capital losses are not otherwise offset against other sources of income. For instance, income relating to an investment that produced dividend income and capital losses during the period is reported at the amount of the dividend income only. Changes in unrealized capital gains are not included.
+Income from S-Corporations is reported as the amount of dividends received, which differs from taxable income reportable on the Internal Revenue Service's form Schedule K-l. Income from partnerships is reported as the amount of distributions received from the partnership, which differs from taxable income reportable on Internal Revenue Service's form Schedule K-l.

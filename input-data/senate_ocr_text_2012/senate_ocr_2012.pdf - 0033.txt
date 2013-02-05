@@ -1,0 +1,15 @@
+﻿
+Stephens Inc Custodian for Brooke F Burr IRA
+Al
+Realized Profit & Loss
+01/01/2011 to 12/31/2011
+						Realized Profit/(Loss)	Realized Profit/(Loss)	
+Purchase Sale Date Date	Quantity	Symbol	Description	Cost Basis	Proceeds	Short Term Long Term	Net	%
+Mutual Funds								
+03/31/11 04/20/11	0.001	TIBCX	THORNBURG INVEST INC BUILDER CLASS C	$.02	$.02	-		-
+			Total Mutual Funds	$.02	$.02	-		.00%
+			Sub Total	$.02	$.02	-		.00%
+			Total	$.02	$.02	-		.00%
+Wash Sale Deferred Loss Grand Total -								
+Please see disclaimers.
+Pago 1 of 3

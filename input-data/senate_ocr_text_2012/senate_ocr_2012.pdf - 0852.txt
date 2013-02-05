@@ -1,0 +1,35 @@
+﻿8008*3591929
+INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule III Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31,2011
+Initial Cost (A)	_Gross amount at which carried at end of period_
+Dale of Completion
+Adjustments	of
+to Land	Construction
+	Encumbrance	Land	Buildings and Improvements	Basis (C)	Adjustments Land and Buildings and Accumulated to Basis (C) Improvements Improvements (D) Total (D,E) Depreciation (D,F)					or Acquisition
+SUNTRUST BANK I VA	393	450	498	—	(0)	450	498	948	75	2007
+Roanoke, VA										
+SUNTRUST BANK I VA	191	399	243	—	(0)	399	243	642	36	2007
+Vinton, VA										
+SUNTRUST D FLORIDA	1,512	1,533	893	—	3	1,533	896	2,429	131	2007
+Miami, FL										
+SUNTRUST H FLORIDA	1,373	1,392	811	—	2	1,392	813	2,206	119	2007
+Destin, FL										
+SUNTRUST n FLORIDA	1,443	1,463	852	—	2	1,463	855	2,318	125	2007
+Dunedin, FL										
+SUNTRUST n FLORIDA	1,067	1,082	630	—	2	1,082	632	1,715	93	2007
+Palm Harbor FL										
+SUNTRUST D FLORIDA	1,652	1,675	976	—	3	1,675	979	2,654	143	2007
+Tallahassee, FL										
+SUNTRUST n FLORIDA	1,204	1,221	711	—	2	1,221	713	1,935	105	2007
+Orlando, FL										
+SUNTRUST n FLORIDA	1,409	1,429	832	—	2	1,429	835	2,264	122	2007
+Orlando, FL										
+SUNTRUST II FLORIDA	1,111	1,127	656	—	2	1,127	658	1,785	- 97	2007
+Melbourne, FL										-
+SUNTRUST II FLORIDA	1,300	1,319	768	—	2	1,319	770	2,089	113	2007
+Coral Springs, FL										
+SUNTRUST H FLORIDA	1,023	1,038	604		2	1,038	606	1,644	89	2007
+Lakeland, FL

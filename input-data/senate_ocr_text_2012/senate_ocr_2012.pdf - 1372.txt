@@ -1,0 +1,33 @@
+﻿Charter Graham
+Year
+2007 2006
+Charter WCM
+MORGAN STANLEY CHARTER SERIES
+NOTES TO FINANCIAL STATEMENTS — (Continued)
+Net Unrealized Gains/ (Losses) on Open Contracts
+Exchange-Traded
+2,077,012 5,466,119
+Year
+Exchange-Traded
+Off-Exchange-Traded
+(2,282,477) 7,071,945
+Net Unrealized Gains on Open Contracts
+Total
+(205,465) 12,538,064
+Off-Exchange-Traded
+Longest Maturities
+Exchange-Traded
+Jun. 2009 Jun. 2008
+Off-Exchange-Traded
+Mar. 2008 Mar. 2007
+Longest Maturities
+Total
+Exchange-Traded
+Off-Exchange-Traded
+2007 2006
+1,097,840 1,094,789
+1,097,840 1,094,789
+Jun.2009 Jun. 2008
+The Partnerships have credit risk associated with counterparty nonperformance. As of the date of the financial statements, the credit risk associated with the instruments in which the Partnerships trade is limited to the amounts reflected in the Partnerships' Statements of Financial Condition.
+The Partnerships also have credit risk because MS&Co., MSIP, and/or MSCG act as the futures commission merchants or the counterparties, with respect to most of the Partnerships' assets. Exchange-traded futures, exchange-traded forward, and exchange-traded futures-styled options contracts are marked to market on a daily basis, with variations in value settled on a daily basis. MS&Co. and MSIP, each as a futures commission merchant for each Partnership's exchange-traded futures, exchange-traded forward, and exchange-traded futures-styled options contracts, are required, pursuant to regulations of the Commodity Futures Trading Commission, to segregate from their own assets, and for the sole benefit of their commodity customers, all funds held by them with respect to exchange-traded futures, exchange-traded forward, and exchange-traded futures-styled options contracts, including an amount equal to the net unrealized gains (losses) on all open exchange-traded futures, exchange-traded forward, and exchange-traded futures-styled options contracts, which funds, in the aggregate, totaled $285,950,890 and $403,046,046 for Charter Campbell, $133,322,442 and $125,631,930 for Charter Aspect, $442,355,883 and $422,467,679 for Charter Graham, and $80,323,292 and $42,925,241 for Charter WCM at December 31, 2007 and 2006, respectively. With respect to each Partnership's off-exchange-traded forward currency contracts and forward currency options contracts, there are no daily settlements of variation in value, nor is there any requirement that an amount equal to the net unrealized gains (losses) on such contracts be segregated. However, each Partnership is required to meet margin requirements equal to the net unrealized loss on open forward currency contracts in the Partnership accounts with the counterparty, which is accomplished by daily maintenance of the cash balance in a custody account held at MS&Co. With respect to those off-exchange-traded forward currency contracts, the Partnerships are at risk to the ability of MS&Co., the sole counterparty on all such contracts, to perform. With respect to those off-exchange-traded forward currency options contracts, Charter Campbell is at risk to the ability of MSCG, the sole counterparty on all such contracts, to perform. Each Partnership has a netting agreement with the counterparties. These agreements, which seek to reduce both the Partnerships' and the counterparties' exposure on off-exchange-traded forward currency contracts, should materially decrease the Partnerships' credit risk in the event of MS&Co.'s or MSCG's bankruptcy or insolvency.
+F-27

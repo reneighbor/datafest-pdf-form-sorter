@@ -1,0 +1,46 @@
+﻿08880 5 9 59 81
+Kepcrting Inctviajc/J Nome DAVID DEWHURST				PART 1MB. NON-PUBLICLY TRADED ASSETS AND UNEARNED INCOME SOURCES																																Page tejmbev Addendum Pg. 1
+			BLOCK A				BLOCK B Valuation of Assets									BLOCK C Type and Amount of Income																				
+																Type of Income									Amount of Income											
+Identity ot Non-Publicly Traded Assets And Unearned Income Sources				| None ( or less than $1,001)	$1,001 -$15,000	$15,001 - $50,000	$50,001 -$100,000	$100,001 - $250,000	$250,001 - $500,000	$500,001 -$1,000,000	• <5 > O	$1,000,001 -$5,000,000	$5,000,001 - $25,000,000	$25,000,001 - $50,000,000	Over $50,000,000	None	Dividends	Rent	Interest	Capital Gains	Excepted Investment Fund	Excepted Trust	Qualified Blind Trust	Other (Specify Type)	None (or less than $201)	8 p S- o CM	$1,001 -$2,500	$2,501 - $5,000	$5,001 -$15,000	$15,001 -$50,000	$50,001 -$100,000	o o o o	* * » o o o <D > O	$1,000,001 -$5,000,000	Over $5,000,000	Actual Amount Required if "Other" Specified
+l		U S DOLLAR -	Goldman Sachs Investment Account	X															X							X										
+2		3M COMPANY CMN					X										X										X									
+3		AMERICAN EAGLE OUTFITTERS INC (NEW)						X								X									X											
+4		BOEING COMPANY CMN						X									X											X								
+5		CALL/BA	@ 70 EXP 09/17/2011	X																X							X									
+6		CALL/BA	@ 80 EXP 02/18/2012	X																X						X										
+7		CALL/CE	@ 52.5 EXP 09/17/2011	X																X							X									
+8		CALL/CE	@ 55 EXP 03/17/2012	X																X					X											
+9		CALL/HNT	@ 27.5 EXP 09/17/2011	X																X							X									
+10		CALL/HOT	@ 62.5 EXP 04/21/2012	X												X									X											
+11		CALL/HOT	@ 57.5 EXP 09/17/2011	X																X						X										
+12		CALL/HOT	@ 62.5 EXP 04/21/2012	X												X							i		X											
+13		CALL/IP	@ 30 EXP 09/17/2011	X																X							X									
+14		CALL/IP	@ 35 EXP 04/21/2012	X												X									X											
+15		CALL/IP	@ 35 EXP 04/21/2012	X												X									X											
+16		CALL/JPM	@ 43 EXP 04/21/2012	X												X									X											
+17		CALL/JPM	@ 43 EXP 04/21/2012	X												X									X											
+18		CALL/MMM	@ 90 EXP 02/18/2012	X																X						X										
+19		CALL/MMM	@ 90 EXP 09/17/2011	X																X						X										
+20		CALL/MSFT	@ 33 EXP 04/21/2012	X												X									X											
+21		CALL/MSFT	@ 29 EXP 09/17/2011	X																X						X										
+22		CALL/MSFT	@ 33 EXP 04/21/2012	X												X									X											
+23		CALL/PPG	@ 85 EXP 09/17/2011	X																X						X										
+24		CALL/SPY	@ 124 EXP 10/22/2011	X																X									X							
+25		CALL/SPY	@ 124 EXP 12/17/2011	X																X									X							
+26		CALL/SPY	@ 125 EXP 10/22/2011	X																X									X							
+27		CALL/SPY	@ 125 EXP 12/17/2011	X																X									X							
+28		CALL/SPY	@ 126 EXP 10/22/2011	X																X									X							
+29		CALL/SPY	@ 126 EXP 12/17/2011	X																X									X							
+30		CALL/SPY	@ 127 EXP 10/22/2011	X																X								X								
+31		CALL/SPY	@ 127 EXP 12/17/2011	X																X								X								
+32		CALL/SPY	@ 129 EXP 09/17/2011	X																X										X						
+33		CALL/SPY	@ 129 EXP 11/19/2011	X																X										X						
+34		CALL/SPY	@ 130 EXP 07/16/2011	X																X							X									
+35		CALL/SPY	@ 130 EXP 09/17/2011	X																X									X							
+36		CALL/SPY	@ 131 EXP 07/16/2011	X																X								X								
+37		CALL/SPY	@ 131 EXP 09/17/2011	X																X									X							
+38		CALL/SPY	@ 132 EXP 03/19/2011	X																X							X									
+39		CALL/SPY	@ 132 EXP 04/16/2011	X																X							X									
+40		CALL/SPY	@ 132 EXP 06/18/2011	X																X								X								
+X:\Senate Filing May 2012\IIIB FSIC ADDENDUM FSIC Harding Loevner

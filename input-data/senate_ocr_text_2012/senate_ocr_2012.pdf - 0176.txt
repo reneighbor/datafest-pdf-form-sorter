@@ -1,0 +1,25 @@
+﻿Reporting
+Crapo, Michael D.
+PART IV. TRANSACTIONS
+Page Number
+15
+Report any purchase, sale, or exchange by you, your spouse, or dependent child (See p.3 CONTENTS OF REPORTS Part B of Instructions) during the reporting period of any real property, stocks, bonds, commodity futures, and other securities when the amount of the transaction exceeded $1,000. Include transactions that resulted in a loss. Do not report a transaction involving property used solely as your personal residence, or a transaction between you, your spouse, or dependent child. Please clarify which two properties are involved in any reportable exchange.				Transaction Type (x)													$25,000,001 -$50,000,000	
+				a> (0 (0 JZ o k	o	<D o> C (0 £ o	Transaction Date {Mo., Day, Yr.)	001 -$15,000	j, 001 -$50,000	),001 -$100,000	>0,001 -$250,000	$250,001 -$500,000	>0,001 -$1,000,000	* + o o o o~ o o L. <D	000,001 -$5,000,000	000,001 -$25,000,000		Over $50,000,000
+Identification of Assets				3 a.	« CO	X 111			U J	in			«—I m tn	> O		in m		
+		S,	IBM Corp. (stock) NYSE	X			2/1/1X		X			E	X	A	M	P	L	E
+example, uu, or J			(DC) Microsoft (stock) NASDAQ/OTC		X		1/27/1X				X	E	X	A	M	P	L	E
+1	J	WHITING PETROLEUM CORP, stock, WLL, $1,145.87			X		05/23/2011	X										
+2	J	CF INDS HLDGS INC, stock, CF, $1,848.37		X			05/24/2011	X										
+3	J	MOSAIC CO, stock, MOS, $1,811.24			X		05/24/2011	X										
+4	J	DIAMOND FOODS INC, stock, DMND, $1,317.35			X		05/24/2011	X										
+5	J	FIRST TRUST CONSUMER STAPLES ALPHADEX, ETF, FXG, $1,324.47		X			05/24/2011	X										
+6	J	FIA CARD SVS NA RASP, MERRILL LYNCH CASH RESERVE, IIAXX, $1,431.00			K		06/23/2011	X										
+7	J	EMERSON ELEC CO, stock, EMR, $3,357.76			X		06/23/2011	X										
+8	J	CABOT OIL & GAS CORP, stock, COG, $1,312.88		X			06/23/2011	X										
+9	J	NETGEAR INC, stock, NTGR, $2,502.09		X			06/23/2011	X										
+10	J	FIA CARD SVS NA RASP, MERRILL LYNCH CASH RESERVE, IIAXX, $1,422.00			X		06/24/2011	X										
+11	J	AMERIGROUP CORP, stock, AGP, $2,601.17			X		08/08/2011	X										
+12	J	VEECO INSTRUMENTS INC, stock, VECO, $2,070.37			X		08/08/2011	X										
+Amount of Transaction (x)
+"-EXEMPTION TEST (see instructions before marking box): If you omitted any asset because it meets the three-part test for exemption described in the instructions, please check box to the right.
+-** This category applies only if the asset is/was held independently by the spouse or dependent child. If the asset is/was either held by the filer or jointly held, use the other categories of value, as appropriate.

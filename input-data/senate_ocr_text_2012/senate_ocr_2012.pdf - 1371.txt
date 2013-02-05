@@ -1,0 +1,42 @@
+﻿MORGAN STANLEY CHARTER SERIES
+NOTES TO FINANCIAL STATEMENTS — (Continued) 4. FINANCIAL INSTRUMENTS
+The Partnerships trade Futures Interests. Futures and forwards represent contracts for delayed delivery of an instrument at a specified date and price. Risk arises from changes in the value of these contracts and the potential inability of counterparties to perform under the terms of the contracts. There are numerous factors which may significantly influence the market value of these contracts, including interest rate volatility.
+The market value of exchange-traded contracts is based on the settlement price quoted by the exchange on the day with respect to which market value is being determined. If an exchange-traded contract could not have been liquidated on such day due to the operation of daily limits or other rules of the exchange, the settlement price shall be the settlement price on the first subsequent day on which the contract could be liquidated. The market value of off-exchange-traded contracts is based on the fair market value quoted by the counterparty.
+The Partnerships' contracts are accounted for on a trade-date basis and marked to market on a daily basis. Each Partnership accounts for its derivative investments in accordance with the provisions of Statement of Financial Accounting Standards No. 133, "Accounting for Derivative Instruments and Hedging Activities" ("SFAS No. 133"). SFAS No. 133 defines a derivative as a financial instrument or other contract that has all three of the following characteristics:
+(1)	One or more underlying notional amounts or payment provisions;
+(2)	Requires no initial net investment or smaller initial net investment than would be required relative to changes in market factors;
+(3)	Terms require or permit net settlement.
+Generally, derivatives include futures, forward, swap or options contracts, and other financial instruments with similar characteristics such as caps, floors, and collars.
+The net unrealized gains (losses) on open contracts at December 31, reported as a component of "Trading Equity" on the Statements of Financial Condition, and their longest contract maturities were as follows:
+Charter Campbell
+Year
+2007 2006
+Net Unrealized Gains/ (Losses) on Open Contracts
+Exchange-
+Traded $
+660,093 9,796,471
+Off-Exchange-Traded
+(5,317,800) 13,913,082
+Total
+(4,657,707) 23,709,553
+Longest Maturities
+Exchange-Traded
+Sep. 2008 Sep. 2007
+Off-Exchange-Traded
+Mar. 2008 Mar. 2007
+Charter Aspect
+Year
+Net Unrealized Gains/ (Losses) on Open Contracts
+Exchange-Traded
+Off-Exchange-Traded
+Total
+Longest Maturities
+Exchange-Traded
+Off-Ex change-Traded
+2007 2006
+5,510,058 2,996,006
+(445,952) 1,802,760
+5,064,106 4,798,766
+Mar. 2009 Mar. 2008
+Jan. 2008 Jan. 2007
+F-26

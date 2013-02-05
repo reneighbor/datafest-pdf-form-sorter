@@ -1,0 +1,20 @@
+﻿
+Reporting Individual's Name McCain, John s ll! PART V,M- POSITIONS HELD OUTSIDE U.S. GOVERNMENT							Page Number 18
+Report any positions held by you during the applicable reporting period whether compensated or not. Positions include, but are not limited to those of an officer, director, trustee, general partner, proprietor, representative, employee, or consultant of any corporation, firm, partnership, or other business enterprise or any non-profit organization or educational institution. Both the year and month must be reported for the period of time that the position was held. Exclude: Positions with federal government, religious, social, fraternal, or political entities, and those solely of an honorary nature.							
+Name of Organization			Address (City, State)	Type of Organization	Position Held	From (Mo/Yr)	To (Mo/Yr)
+Example:		National Assn. of Rock Collectors	NY,NY EXAMPLE	Non-profit education	President	6/91	Present
+		Jones & Smith	Hometown, USA EXAMPLE	Law Firm	Partner	7/96	11/1X
+1	International Republican Institute		Washington, D.C.	Non-profit promoting democracy overseas	Chairman of the Board of Directors	2/93	Present
+2	Intrepid Foundation		New York, NY	Museum	Trustee	10/03	Present
+3	Translational Genomics Research Institute		Phoenix, AZ	Non-profit medical research	Chairman of National Advisory Council	3/05	Present
+4	No Entry						
+5	No Entry						
+6	No Entry						
+7	No Entry						
+8	No Entry						
+9	No Entry						
+10	No Entry						
+11	No Entry						
+12	No Entry						
+13	No Entry						
+Compensation in excess of $200 from any position must be reported in Part II.							

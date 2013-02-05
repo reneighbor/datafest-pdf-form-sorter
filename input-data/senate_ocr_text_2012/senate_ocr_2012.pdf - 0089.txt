@@ -1,0 +1,24 @@
+﻿
+Amendment
+Carper, Thomas R.
+PART VII. LIABILITIES
+Page Number
+31
+Report liabilities over $10,000 owed by you, your spouse, or dependent child (See p.3 CONTENTS OF REPORTS Part B of Instructions), to any one creditor at any time during the reporting period. Check the highest amount owed during the reporting period. Exclude: (1) Mortgages on your personal residences unless rented; (2) loans secured by automobiles, household furniture or appliances; and (3) liabilities owed to certain relatives listed in Instructions. See Instructions for reporting revolving charge accounts.						Date Incurred	Interest Rate	Term if Applicable	Category of Amount of Va								ilue (x)		
+									$10,001 -$15,000	$15,001 -$50,000	$50,001 -$100,000	$100,001 -$250,000	$250,001 - $500,000	$500,001 -$1,000,000	Over $1,000,000***	$1,000,001 -$5,000,000	$5,000,001 - $25,000,000	$25,000,001 -$50,000,000	Over $50,000,000
+Name of Creditor				Address	Type of Liability														
+s,			First District Bank	Wash., DC	Mortgage on undeveloped land	1992	13%	25yrs			X		E	X	A	M	P	L	E
+Example: DC, or J			(J) John Jones	Wash., DC	Promissory Note	2000	10%	On dmd				X	E	X	A	M	P	L	E
+1		Citizens Bank		Wilmington, DE	Mortgage on home	2009	4.5%	15yr					X						
+2																			
+3																			
+4																			
+5																			
+6																			
+7																			
+8																			
+9																			
+10																			
+11																			
+12																			
+EXEMPTION TEST (see instructions before marking box): If you omitted any asset because it meets the three-part test for exemption described in the instructions, please check box to the right. This category applies only if the asset is/was held independently by the spouse or dependent child. If the asset is/was either held by the filer or jointly held, use the other categories of value, as appropriate.

@@ -1,0 +1,11 @@
+﻿A<
+Realized Profit & Loss
+Purchase Date	Sale Date	Quantity	Symbol	Description	Cost Basis	Proceeds	Realized Profit/(Loss) Short Term Long Term		Realized Profit/(Loss) Net %	
+12/01/10	12/30/11	143.000	ATK	ALLIANT TECHSYSTEMS	$10,859.95	$8,185.16	-	($2,674.79)	($2,674.79)	(24.63%)
+				Total Equities	$77,723.13	$70,464.51	$755.29	($8,013.91)	($7,258.62)	(9.34%)
+				Total Equities & Options	$77,723.13	$70,464.51	$755.29	($8,013.91)	($7,258.62)	(9.34%)
+				Sub Total	$77,723.13	$70,464.51	$755.29	($8,013.91)	($7,258.62)	(9.34%)
+				Total	$77,723.13	$70,464.51	$755.29	($8,013.91)	($7,258.62)	(9.34%)
+Wash Sale Deferred Loss Grand Total										
+Please see disclaimers.
+Pago 1 of 3

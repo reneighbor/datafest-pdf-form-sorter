@@ -1,0 +1,25 @@
+﻿Statement for Account # I
+12/01/11 - 12/31/11
+Income Summary Detail*		
+Description	Current	Year to Date
+Ordinary Dividends	$ 250.65	$ 691.35
+Interest Income Credit Balance	0.00	0.55
+Short Term Capital Gains	138.55	138.55
+Long Term Capital Gains	237.09	237.09
+IDA Interest	0.13	2.36
+•This section displays current and year to date taxation values for this account. The current totals may not equate to the total payments listed on this statement as corrections to tax reporting may also be included, These corrections can Include changes made to previous payments and removal of payments reportable in a previous tax year (spillover dividends). The year to date totals will accurately reflect your cumulative amount for the year.
+Account Positions										
+Investment Description	Symbol/ CUSIP	Quantity	Current Price	Market Purchase Value Date		Cost Basis	Average Cost	Unrealized Gain(Loss)	Estimated Income Yield	
+Mutual Funds - Cash										
+ALPS SERVICES BRWN CAP SMALL CO FUND I	BCSIX	22.019	$ 43.78	$963.99	01/03/11	$ 977.58	$ 44.40	$ (13.59) $		
+ARTIO FDS INTERNATIONAL EQUITY II A	JETAX	48.089	9.51	457.33	01/03/11	598.18	12.44	(140.85)	7.17	1.6%
+ARTISAN FDS INC MID CAP VALUE FD	ARTQX	50.475	19.70	994.36	01/03/11	1,018.09	20.17	(23.73)	6.46	0.7%
+BERWYN FD INC COM	BERWX	17.733	28.76	510.00	01/03/11	511.98	28.87	(1.98)		
+BUFFALO FDS MID CAP FD	BUFMX	60.009	15.60	936.14	01/03/11	1,022.18	17.03	(86.04)		
+CREDIT SUISSE UNDS ;OMMODITY RETURN (TRATEGY CMN	CRSOX	161.348	8.18	1,319.83	01/03/11	1,507.47	9.34	(187.64)		IS!
+JODGE& COX FUNDS nITL STK FD	DODFX	107.573	29.24	3,145.43	01/03/11	3,759.64	34.95	(614.21)	81.65	2.6%
+)ODGE& COX FUNDS ITOCK FUND	DODGX	51.987 page 2 of 17	101.64	5,283.96	01/03/11	5,666.69	109.00	(382.73)	91.19	1.7%
+<7* o>
+tp iutv
+0 Q
+O CD Q

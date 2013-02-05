@@ -1,0 +1,46 @@
+﻿JAMES M. INHOFE Details of Revocable Living Trust Capital Advisors Securities Assets Schedule IIIA
+Category
+Year End Type Amount of
+Asset and/or Income Source	Value	Income	Income
+J AT&T INC.	3	b	C
+J ABB LTD ADR	3	b	C
+J ABBOTT LABS	4	b	C
+J AMAZON COM INC	3		
+J ANALOG DEVICES INC	3	b	B
+J APPLE COMPUTER INC	4		
+J APPLIED MATLS INC	3	b	B
+J BHP BILLITON ADR	3	b	B
+J BLACKROCK INC	4	b	C
+J BROADCOM CORP	3	b	B
+J DISCOVER FINL SVCS	2	b	A
+J FEDEX CORP	3	b	A
+J FORD MTR CO DEL	3	b	B
+J GENERAL ELECTRIC	4	b	C
+J GENERAL MOTORS	3		
+J GOOGLE INC-CL A	3		
+J INTEL CORP	3	b	C
+J JOHNSON CTLS INC	3	b	B
+J JOHNSON & JOHNSON	4	b	C
+J MICROSOFT	3	b	C
+J NATIONAL OILWELL VARCO INC	3	b	B
+J PEPSICO INC	4	b	C
+J PROCTER & GAMBLE COMPANY	4	b	C
+J QUALCOMMINC	4	b	B
+J SUNCOR ENERGY INC	3	b	B
+J TRANSOCEAN LTD	3	b	C
+J VISA INC CL A	4	b	B
+J VODAFONE GROUP INC	4	b	D
+J WELLS FARGO & CO	4	b	C
+J WEYERHAEUSER CO	3	b	C
+J YUM BRANDS INC	3	b	B
+m
+The assets listed in Schedule Ilia are managed by Capital Advisors, a register investment adviser.
+^	Capital Advisors has full and complete discretion and trading authority over these assets. The asset
+0	managers do not consult with me on the nature or timing of any transaction with respect to any of
+(fji	these assets.
+G>
+Q	The decisions made with respect to the buying and selling of these assets are made by Capital
+0	Advisors as part of its overall asset allocation model, which asset allocation model is also used
+C;>	for most, if not all, of the similarly constituted accounts managed by Capital Advisors.
+O
+Transactions involving these accounts are reported in part IV.

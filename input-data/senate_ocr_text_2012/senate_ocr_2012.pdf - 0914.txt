@@ -1,0 +1,52 @@
+﻿
+Rtpotog kvMducfi Nome
+DAVID DEWHURST
+PART IIIB. NON-PUBLICLY TRADED ASSETS AND UNEARNED INCOME SOURCES
+Tvne
+Pog*r*jrrto«r Addandum Pg- 11
+BLOCK A
+BLOCK B Valuation of Assets
+Identity of Non-Publicly Traded Assets And Unearned Income Sources															Type of Income									Amount of Income											
+			None ( or less than $1,001)	$1,001 -$15,000	$15,001 -$50,000	$50,001 - $100,000	$100,001 -$250,000	i >o i 8 o u"> CM	■ 8 8 LO	• • <D > O	l t | S-	$5,000,001 - $25,000,000	$25,000,001 - $50,000,000	Over $50,000,000	None	Dividends	Rent	Interest	Capital Gains	Excepted Investment Fund	Excepted Trust	Qualified Blind Trust	Other (Specify Type)	None (or less than $201)	$201 -$1,000	8 U-) CN i 8	$2,501 - $5,000	iO i 8 W5	$15,001 -$50,000	$50,001 - $100,000	$100,001 -$1,000,000	Over $1,000,000	$1,000,001 -$5,000,000	Over $5,000,000	Actual Amount Required if "Other Specified
+1		CALL/SPY @ 132 EXP 07/16/2011	X																X									X							
+2		CALL/SPY @ 132 EXP 08/20/2011	X																X									X							
+3		CALL/SPY @ 133 EXP 03/31/2011	X																X								X								
+4		CALL/SPY @ 133 EXP 04/16/2011	X																X									X							
+5		CALL/SPY @ 133 EXP 06/18/2011	X																X										X						
+6		CALL/SPY @ 133 EXP 08/20/2011	X																X									X							
+7		CALL/SPY @ 134 EXP 03/19/2011	X																X									X							
+8		CALL/SPY @ 134 EXP 03/31/2011	X																X									X							
+9		CALL/SPY @ 134 EXP 04/16/2011	X																X								X								
+10		CALL/SPY ® 134 EXP 06/18/2011	X																X									X							
+11		CALL/SPY @ 134 EXP 06/30/2011	X																X									X							
+12		CALL/SPY @ 134 EXP 08/20/2011	X																X										X						
+13		CALL/SPY @ 134 EXP 09/17/2011	X																X									X							
+14		CALL/SPY @ 135 EXP 03/31/2011	X																X								X								
+15		CALL/SPY @ 135 EXP 04/16/2011	X																X								X								
+16		CALL/SPY @ 135 EXP 05/21/2011	X																X									X							
+17		CALL/SPY @ 135 EXP 06/30/2011	X																X									X							
+18		CALL/SPY @ 135 EXP 08/20/2011	X																X										X						
+19		CALL/SPY 135 EXP 09/17/2011	X																X									X							
+20		CALL/SPY @ 136 EXP 04/16/2011	X																X								X								
+21		CALL/SPY @ 136 EXP 05/21/2011	X																X									X							
+22		CALL/SPY @ 136 EXP 08/20/2011	X																X									X							
+23		CALL/SPY @ 137 EXP 04/16/2011	X																X						X										
+24		CALL/SPY @ 137 EXP 05/21/2011	X																X								X								
+25		CALL/SPY @ 137 EXP 08/20/2011	X																X									X							
+26		CALL/SPY @ 138 EXP 05/21/2011	X																X							X									
+27		CALL/SPY @ 138 EXP 08/20/2011	X																X								X								
+28		CALL/SPY @ 135.0000EXP06/18/2011	X																X								X								
+29		CELANESE CORPORATION CMN SERIES A			X											X								X											
+30		CIGNA CORPORATION CMN	X													X			X									X							
+31		DEVON ENERGY CORPORATION (NEW) CMN	X													X									X										
+32		EASTMAN CHEM CO CMN					X								X									X											
+33		EDWARDS LIFESCIENCES CORP CMN	X																X											X					
+34		FREEPORT-MCMORAN COPPER & GOLD CMN	X													X			X							X									
+35		GOLDMAN SACHS BANK DEPOSIT [BDA)									X							X									X								
+36		GS FINANCIAL SQUARE FEDERAL FUND-PREMIER									X					X								X											
+37		GS HIGH YIELD FLOATING RATE FUND					X								X									X											
+38		GS HIGH YIELD FUND INSTITUTIONAL SHARES									X					X													X						
+39		HEALTH NET, INC. CMN	X																X								X								
+40		HUNTSMAN CORPORATION CMN	X													X			X										X						
+BLOCK C
+X:\Senate Filing May 2012MIIB FSIC ADDENDUM falEq

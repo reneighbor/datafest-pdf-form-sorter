@@ -1,0 +1,18 @@
+﻿V RS-3
+Virginia Retirement System Asset Allocation as of September 30,2011
+(Dollar amounts in Billions / Percent of Total Fund)
+Total Fund market value = $49.6 billion
+Emerging Mkt Debt $13 2.7%
+Fixed Income $10.5 21.1%
+Convertibles $2.1 .43%
+Emerging Mkts $3.4 6.9%
+Non-U.S. Equity (Dev) $8.1 16.3%
+Public Real Estate $0.5 1.0%
+Private Real Estate $3.2 6.5%
+Private Equity $4.9 10.0%
+Domestic Equity $103 20.7%
+t> SSJT "ST
+CO
+W 0
+©
+O CD

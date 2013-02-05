@@ -1,0 +1,12 @@
+﻿"Name of program" is the name of the trading program used to derive the performance included in the capsule.
+"Inception of trading by commodity trading advisor" is the date on which Aspect began directing client accounts.
+"Inception of trading in program" is the date Aspect began directing client accounts currently traded pursuant to the Aspect Diversified Program.
+"Aggregate assets (excluding notional equity) in program" is the aggregate amount of actual assets under the management of the advisor in the Aspect Diversified Program shown as of the end of the period covered by the capsule. This number excludes "notional" equity.
+"Aggregate assets (including notional equity) in program" is the aggregate amount of total equity under the management of Aspect in the Aspect Diversified Program shown as of the end of the period covered by the capsule. This number includes "notional:" equity,
+"Aggregate assets (excluding notional equity) overall" is the aggregate amount of actual assets under the management of the advisor overall as of the end of the period covered by the capsule. This number excludes "notional" equity.
+"Aggregate assets (including notional equity) overall" is the aggregate amount of total equity under the management of Aspect in all of its trading programs as of the end of the period covered by the capsule. This number includes "notional" equity.
+"Worst monthly drawdown" is the largest percentage loss that would have occurred in the account during any calendar month and includes the month and year of such drawdown.
+"Worst peak-to-valley drawdown" is the largest calendar month to calendar month loss experienced by the account for the period presented from any calendar month-end to any subsequent calendar month-end and includes the month(s) and year(s) in which it occurred.
+"Monthly Rates of Return" for each month is the net performance divided by beginning equity, subject to certain adjustments.
+"Compound Rate of Return" is calculated by multiplying on a compound basis each of the monthly rates of return and not by adding or averaging such monthly rates of return. For periods of less than one year, the results are year-to-date.
+93

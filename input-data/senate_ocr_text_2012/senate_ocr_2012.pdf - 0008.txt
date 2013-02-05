@@ -1,0 +1,18 @@
+﻿Richard M. Burr and Brooke F. Burr JTTEN
+Ai
+Realized Profit & Loss
+01/01/2011 to 12/31/2011
+							Realized Profit/(Loss)	Realized Profit/(Loss)	
+Purchase Date	Sale Date	Quantity	Symbol	Description	Cost Basis	Proceeds	Short Term Long Term	Net	%
+Mutual Funds									
+07/10/11	10/12/11	860.265	AHYX	INVESCO INTL GROWTH FUND CLASS I	$25,377.85	$22,100.21	($3,277.64)	($3,277.64)	(12.92%)
+07/10/11	10/12/11	1,537.949	CVFYX	PIONEER CULLEN VALUE FUND CLY	$29,528.62	$25,899.06	($3,629.56)	($3,629.56)	(12.29%)
+07/10/11	10/12/11	1,298.624	HDGIX	HARTFORD DIVIDEND & GROWTH CL I	$26,011.41	$23,336.28	($2,675.13)	($2,675.13)	(10.28%)
+07/10/11	10/12/11	6.151	HDGIX	HARTFORD DIVIDEND & GROWTH CL I	$106.85	$110.53	$3.68	$3.68	3.45%
+07/10/11	10/12/11	675.054	MDISX	MUTUAL GLOBAL DISCOVERY FUND CLASS Z	$20,973.93	$18,199.46	($2,774.47)	($2,774.47)	(13.23%)
+				Total Mutual Funds	$101,998.66	$89,645.54	($12,353.12)	($12,353.12)	(12.11%)
+				Sub Total	$101,998.66	$89,645.54	($12,353.12)	($12,353.12)	(12.11%)
+				Total	$101,998.66	$89,645.54	($12,353.12)	($12,353.12)	(12.11%)
+Wash Sale Deferred Loss Grand Total
+Please see disclaimers.
+Pago 1 of 3

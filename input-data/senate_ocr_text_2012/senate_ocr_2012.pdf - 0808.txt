@@ -1,0 +1,36 @@
+﻿08800 5938 8 5
+INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule in Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31, 2011
+Initial Cost (A)	_Gross amount at which carried at end of period_
+Date of Completion
+Adjustments	of
+to Land	Construction
+Buildings and Basis Adjustments Land and Buildings and	Accumulated	or
+Encumbrance Land Improvements (C) to Basis (C) Improvements Improvements (D) Total (D,E) Depreciation (D,F) Acquisition
+BUCKHEAD CROSSING
+Atlanta, GA	33,215	7,565	27,104	—	(1,327)	7,565	25,777	33,343	2,606	2009
+BUCKHORN PLAZA										
+Bloomsburg, PA	9,025	1,651	11,770	—	770	1,651	12,540	14,190	2,409	2006
+CAMPUS MARKETPLACE										
+San Marcos, CA	19,217	6,723	27,462	—	(257)	6,723	27,205	33,927	2,669	2009
+CANFIELD PLAZA										
+Canfield, OH	7,575	2,250	10,339	(370)	(3,406)	1,880	6,933	8,813	127	2006
+CENTERPLACE OF GREELEY										
+Greeley, CO	17,175	3,904	14,715	—	(129)	3,904	14,585	18,490	1,515	2009
+CHESAPEAKE COMMONS										
+Chesapeake, VA	8,950	2,669	10,839	—	3	2,669	10,841	13,510	1,887	2007
+CHEYENNE MEADOWS										
+Colorado Springs, CO	6,490	2,023	6,991	—	052)	2,023	6,839	8,861	706	2009
+CHILI'S—HUNTING BAYOU										
+Jacinto City, TX	—	400	—	—	—	400	—	400	—	2005
+CINEMARK—JACINTO CITY										
+Jacinto City, TX	—	1,160	10,540	(164)	(3,668)	996	6,872	7,868	141	2005
+CITIZENS (CFG) CONNECTICUT										
+Hamden, CT	678	525	737	—	(2)	525	735	1,260	123	2007
+CITIZENS (CFG) CONNECTICUT										
+Colchester, CT	1,095	450	1,191	—	(4)	450	1,187	1,637	199	2007
+CITIZENS (CFG) CONNECTICUT										
+Deep River, CT	2,018	480	2,194	—	(7)	480	2,187	2,667	367	2007

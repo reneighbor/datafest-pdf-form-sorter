@@ -1,0 +1,23 @@
+﻿Each partnership's risk exposure in the various market sectors traded by the trading advisor is estimated below in terms of VaR. Each partnership estimates VaR using a model based upon historical simulation (with a confidence level of 99%) which involves constructing a distribution of hypothetical daily changes in the value of a trading portfolio. The VaR model takes into account linear exposures to risks including equity and commodity prices, interest rates, foreign exchange rates, and correlation among these variables. The hypothetical changes in portfolio value are based on daily percentage changes observed in key market indices or other market factors to which the portfolio is sensitive. The one-day 99% confidence level of each partnership's VaR corresponds to the negative change in portfolio value that, based on observed market risk factors, would have been exceeded once in 100 trading days, or one day in 100. VaR typically does not represent the worst case outcome.
+The general partner uses approximately four years of daily market data (1,000 observations) and re-values its portfolio (using delta-gamma approximations) for each of the historical market moves that occurred over this time period. This generates a probability distribution of daily 'simulated profit and loss' outcomes. The VaR is the appropriate percentile of this distribution. For example, the 99% one-day VaR would represent the 10th worst outcome from the general partner's simulated profit and loss series.
+The partnerships' VaR computations are based on the risk representation of the underlying benchmark for each instrument or contract and do not distinguish between exchange and non-exchange dealer-based instruments. They are also not based on exchange and/or dealer-based maintenance margin requirements.
+VaR models, including the partnerships', are continually evolving as trading portfolios become more diverse and modeling techniques and systems capabilities improve. Please note that the VaR model is used to numerically quantify market risk for historic reporting purposes only and is not utilized by either the general partner or the trading advisors in their daily risk management activities. Please further note that VaR as described above may not be comparable to similarly-titled measures used by other entities.
+Each Partnership's Value at Risk in Different Market Sectors
+The following tables indicate the VaR associated with each partnership's open positions as a percentage of total net assets by primary market risk category at December 31, 2007 and 2006. Until September 30, 2006 and September 15, 2006, respectively, the assets of Charter WCM and Charter Aspect were traded by Millburn Ridgefield Corporation and VK Capital Inc., respectively. Effective December 1, 2006, Winton Capital Management Limited and Aspect Capital Limited began trading the assets of Charter WCM and Charter Aspect, respectively.
+Charter Graham:
+At December 31, 2007 and 2006, Charter Graham's total capitalization was approximately $440 million and $420 million, respectively.
+December 31, Value at Risk
+Primary Market Risk Category
+2007	2006
+% %
+Currency............
+Equity..............
+Interest Rate.........
+Commodity..........
+Aggregate Value at Risk
+(1.10)	(2.61)
+(0.15)	(3.14)
+(0.11)	(1.31)
+(0.30)	(0.27)
+(1.09)	(4.19)
+57

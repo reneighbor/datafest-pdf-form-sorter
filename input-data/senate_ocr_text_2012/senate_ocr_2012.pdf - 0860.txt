@@ -1,0 +1,36 @@
+﻿880-305 9 3 337
+INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule III Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31,2011
+Initial Cost (A)	Gross amount at which carried at end of period
+Date of Completion
+Adjustments	of
+to Land	Construction
+Buildings and Basis Adjustments Land and Buildings and	Accumulated	or
+Encumbrance Land Improvements (C) to Basis (C) Improvements Improvements (D) Total (D.E) Depreciation (D,F) Acquisition
+SUNTRUST m FLORIDA	972	975	592	—	—	975	592	1,567	81	2008
+Deland, FL										
+SUNTRUST III FLORIDA	972	975	592	—	—	975	592	1,567	81	2008
+Deland, FL										
+SUNTRUST III FLORIDA	1,040	1,043	634	—	—	1,043	634	1,677	87	2008
+Edgewater, FL										
+SUNTRUST III FLORIDA	922	924	562	—	—	924	562	1,486	77	2008
+Flager Beach, FL										
+SUNTRUST m FLORIDA	676	678	412	—	—	678	412	1,090	57	2008
+Fort Myers, FL										
+SUNTRUST III FLORIDA	1,078	1,081	657	—	—	1,081	657	1,738	90	2008
+Fort Myers, FL										
+SUNTRUST HI FLORIDA	1,422	1,426	867	—	—	1,426	867	2,293	119	2008
+Greenacres City, FL										
+SUNTRUST III FLORIDA	1,773	1,778	1,080	—	—	1,778	1,080	2,859	148	2008
+Gulf Breeze, FL										
+SUNTRUST EI FLORIDA	1,103	1,106	672	—	—	1,106	672	1,778	92	2008
+Haines City, FL										
+SUNTRUST ffl FLORIDA	2,171	2,178	1,323	—	—	2,178	1,323	3,501	182	2008
+Hallandale, FL										
+SUNTRUST III FLORIDA	678	680	413	—	—	680	413	1,093	57	2008
+Hamosassa, FL										
+SUNTRUST III FLORIDA	2,109	2,115	1,285	—	—	2,115	1,285	3,401	177	2008
+Hilaleah, FL

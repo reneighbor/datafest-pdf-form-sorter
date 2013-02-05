@@ -1,0 +1,24 @@
+﻿Ci <T> jT> C A ~ t-
+Reporting Individual's Name
+Stenberg, Donald B.
+PART VIII. POSITIONS HELD OUTSIDE U.S. GOVERNMENT
+Page Number 6
+Report any positions held by you during the applicable reporting period whether compensated or not. Positions include, but are not limited to those of an officer, director, trustee, general partner, proprietor, representative, employee, or consultant of any corporation, firm, partnership, or other business enterprise or any non-profit organization or educational institution. Both the year and month must be reported for the period of time that the position was held.
+Exclude: Positions with federal government, religious, social, fraternal, or political entities, and those solely of an honorary nature.
+Name of Organization			Address (City, State)	Type of Organization	Position Held	From (Mo/Yr)	To (Mo/Yr)
+Example:		National Assn. of Rock Collectors	NY,NY EXAMPLE	Non-profit education	President	6/90	Present
+		Jones <8 Smith	Hometown, USA EXAMPLE	Law Firm	Partner	7/95	11 /OX
+1	State of Nebraska		Lincoln, NE	State government	State Treasurer	1/11	Present
+2	Federalist Society		Washington, DC	Non-profit education	Executive Comm. member of Federalism Subcomm.	2/98	Present
+3	Washington Legal Foundation		Washington, DC	Non-profit education	Legal Policy Advisory Board	3/01	Present
+4	Education Opportunity Nebraska		Omaha, NE	Non-profit educaton	Board member and Secretary	6/09	Present
+5							
+6							
+7							
+8							
+9							
+10							
+11							
+12							
+13							
+Compensation in excess of $200 from any position must be reported in Part II.

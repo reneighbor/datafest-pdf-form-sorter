@@ -1,0 +1,27 @@
+﻿PART TWO
+STATEMENT OF ADDITIONAL INFORMATION Morgan Stanley Charter Series May 1, 2008
+This prospectus is in two parts: a Disclosure Document and a Statement of Additional Information. These parts are bound together and may not be distributed separately.
+THE FUTURES, OPTIONS, AND FORWARD MARKETS
+Futures Contracts
+Futures contracts are standardized contracts made on a domestic or non-U.S. exchange that call for the future delivery of specified quantities of various commodities at a specified price, time, and place. The following are some of the commodities traded on an exchange:
+•	agricultural and tropical (soft) commodities
+•	currencies
+•	energy products • industrial goods
+•	financial instruments • metals
+The futures markets have undergone dramatic changes during the past three decades. According to statistics provided by the Futures Industry Association, in 1980 and 2007 activity in futures markets was divided as follows:
+Currencies................
+Lumber and Energy Products
+1980		2007*
+%		%
+64	Interest Rates.............	..... 53
+16	Stock Indices.............	..... 23
+14	Agricultural Products......	..... 9
+5	Energy Products ..........	..... 7
+1	Metals...................	..... 4
+	Currencies**.............	..... 4
+*	Data as of December 31, 2007.
+*	* Activity reported with regard to Currencies does not include trading activity which takes place on the interbank forward currency market.
+A market participant can make a futures contract to buy or sell a commodity. The contractual obligations may be satisfied either by taking or making, as the case may be, physical delivery of an approved grade of the commodity or by making an offsetting sale or purchase of an equivalent but opposite futures contract on the same, or a mutually offsetting, exchange prior to the designated date of delivery.
+For example, if we sell one contract of December 2008 wheat on a commodity exchange, we may fulfill the contract at any time prior to the December 2008 delivery date by purchasing one contract of December 2008 wheat on the same exchange.
+The difference between the price at which the futures contract is sold or purchased and the price paid for the offsetting purchase or sale, after allowance for brokerage commissions, constitutes the profit or loss to the trader. Certain futures contracts, such as those for stock or other financial or economic indices approved by the CFTC or Eurodollar contracts, settle in cash (irrespective of whether any attempt is made to offset such contracts) rather than delivery of any physical commodity.
+126

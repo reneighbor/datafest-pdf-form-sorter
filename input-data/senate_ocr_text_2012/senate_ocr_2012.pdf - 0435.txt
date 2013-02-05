@@ -1,0 +1,55 @@
+﻿rvrvo o r> c X
+PART IV, TRANSACTIONS
+Reporting Individual's Name
+Senator Orrin G. Hatch
+Report any purchase, sale, or exchange by you, your spouse, or dependent child (See p.3 CONTENTS OF REPORTS Part B of Instructions) during the reporting period of any real property, stocks, bonds, commodity futures, and other securities when the amount of the transaction exceeded $1,000. Include transactions that resulted in a loss. Do not report a transaction involving property used solely as your personal residence, or a transaction between you, your spouse, or dependent child. Please clarify which two properties are involved in any reportable exchange.
+Identification of Assets
+Transaction Date
+Transaction Type (x)
+&
+Page Number ^
+Amount of Transaction (x)
+8
+£
+8
+}Q
+£
+m"
+S
+S
+DC or J
+Example
+IBM Corp. (stock) NYSE
+2/1/OX
+Microsoft (stock) NASDAQ/OTC
+1/27/OX
+127
+Ivy Global Natural Resources Fund
+10/24/11
+128
+Pimco Total Return Fund
+10/24/11
+129
+First Eagle Global Fund
+10/24/11
+130
+Mainstay Funds High Yeild Corp Bond
+10/24/11
+131
+Blackrock Global Allocation Fund Inc
+10/24/11
+132
+Van Eck Global Hard Assets Fund
+10/24/11
+133
+Loomis Sayles Investment Grade Bond Fund
+10/24/11
+134
+Putnam Diversified Income Trust
+10/24/11
+135
+136
+Putnam Voyager Fund Inc
+10/24/11
+Franklin/Templeton Global Bond Fund
+10/24/11

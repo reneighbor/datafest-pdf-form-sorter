@@ -1,0 +1,36 @@
+﻿080085 9 3912
+INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule III Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31, 2011
+Initial Cost (A)	_Gross amount at which carried at end of period_
+Date of Completion
+Adjustments	of
+to Land	Construction
+Buildings and Basis Adjustments Land and Buildings and	Accumulated	or
+Encumbrance Land Improvements . (C) to Basis (C) Improvements Improvements (D) Total (D.E) Depreciation (D,F) Acquisition
+SUNTRUST BANK I FL	916	1,400	786	—	(0)	1,400	786	2,186	118	2007
+Orlando, FL										
+SUNTRUST BANK IFL	722	1,276	620	—	(0)	1,276	620	1,896	93	2007
+Apopka, FL										
+SUNTRUST BANKIFL	680	1,285	584	—	(0)	1,285	584	1,869	87	2007
+Bayonet Point, FL										
+SUNTRUST BANKIFL	1,024	800	879	—	(0)	800	879	1,679	132	2007
+West Palm Beach, FL										
+SUNTRUST BANK I FL	793	600	681	—	(0)	600	681	1,281	102	2007
+Daytona Beach, FL										
+SUNTRUST BANK I FL	622	900	534	—	(0)	900	534	1,434	80	2007
+Sarasota, FL										
+SUNTRUST BANKIFL	495	759	425	—	(0)	759	425	1,184	64	2007
+Dade City, FL										
+SUNTRUST BANKIFL	418	725	359	—	(0)	725	359	1,084	54	2007
+Pensacola, FL										
+SUNTRUST BANK I FL	1,330	1,100	.1,142	—	(0)	1,100	1,142	2,242	171	2007
+New Smyrna Beach, FL										
+SUNTRUST BANK I FL	1,087	1,700	933	—	(0)	1,700	933	2,633	140	2007
+Clearwater, FL										
+SUNTRUST BANKIFL	700	1,218	601	—	(0)	1,218	601	1,819	90	2007
+Daytona Beach, FL										
+SUNTRUST BANK I FL	674	950	579	—	(0)	950	579	1,529	87	2007
+Deltona, FL

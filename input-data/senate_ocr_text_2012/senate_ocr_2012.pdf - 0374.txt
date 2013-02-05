@@ -1,0 +1,24 @@
+﻿Reporting Individual's Name	□ Amendment
+Thomas R. Harkin
+PART II. EARNED AND NON-INVESTMENT INCOME
+Page Number
+2
+Report the source (name and address), type, and amount of earned income to you from any source aggregating $200 or more during the reporting period. For your spouse, report the source (name and address) and type of earned income which aggregate $1,000 or more during the reporting period. No amount needs to be specified for your spouse. (See p.3, CONTENTS OF REPORTS Part B of Instructions.) Do not report income from employment by the U.S. Government for you or your spouse.
+Individuals not covered by the Honoraria Ban:
+For you and /or your spouse, report honoraria income received which aggregates $200 or more by exact amount, give the date of, and describe the activity (speech, appearance or article) generating such honoraria payment. Do not include payments in lieu of honoraria reported on Part I.
+Name of Income Source			Address (City, State)	Type of Income	Amount
+		JP Computers	wash., DC EXAMPLE	Salary	$15,000
+		MCI (Spouse)	Arlington, VA EXAMPLE	Salary	Over $1,000
+1	ConocoPhillips (Spouse)		Houston, TX	Salary (includes	Over $1,000
+2				contractual right to	
+3				receive stock in	
+4				the future)	
+5	United Technologies Corp. (Spouse)		Washington, DC	Salary and pension	Over $1,000
+6	*			(salary includes	
+7				contractual right to	
+8				purchase stock in	
+9				the future)	
+10	AbitibiBowater, Inc. (Spouse)		Montreal, Canada	Salary (includes	Over $1,000
+11				contractual right to	
+12				receive stock in	
+13				the future)	

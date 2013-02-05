@@ -1,0 +1,32 @@
+﻿MORGAN STANLEY CHARTER ASPECT L.P.
+STATEMENTS OF FINANCIAL CONDITION
+_December 31,_
+2007	2006
+$	$
+ASSETS
+Trading Equity:
+Unrestricted cash........................................ 428,483,746	360,856,363
+Restricted cash.......................................... 11,795,125	56,145,197
+Total Cash............................................ 440,278,871	417,001,560
+Net unrealized gain (loss) on open contracts (MSIP)........... 64,122	(314,794)
+Net unrealized gain (loss) on open contracts (MS&Co.) ........ (269,587)	12,852,858
+Total net unrealized gain (loss) on open contracts .......... (205,465)	12,538,064
+Total Trading Equity . . . ;............................... 440,073,406	429,539,624
+Subscriptions receivable..................................... 6,032,184	3,317,475
+Interest receivable (MS&Co.) ................................ 1,136,385	1,824,393
+Total Assets........................................... 447,241,975	434,681,492
+LIABILITIES AND PARTNERS' CAPITAL LIABILITIES
+Redemptions payable .................................... 3,952,743	11,873,932
+Accrued brokerage fees (MS&Co.) .......................... 2,261,439	2,123,827
+Accrued management fees ................................ 753,813	707,942
+Total Liabilities . ....................................... 6,967,995	14,705,701
+PARTNERS' CAPITAL
+Limited Partners (19,771,249.924 and 21,346,676.377 Units,
+respectively) ............................................ 435,434,673	415,478,418
+General Partner (219,732.501 and 231,068.501 Units,
+respectively) ............................................ 4,839,307	4,497,373
+Total Partners' Capital.................................... 440,273,980	419,975,791
+Total Liabilities and Partners' Capital....................... 447,241,975	434,681,492
+NET ASSET VALUE PER UNIT.............................. 22.02	19.46
+The accompanying notes are an integral part of these financial statements.
+F-5

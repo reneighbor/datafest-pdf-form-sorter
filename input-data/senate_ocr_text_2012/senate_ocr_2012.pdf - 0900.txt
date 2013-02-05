@@ -1,0 +1,17 @@
+﻿88888535977
+Repotting Individual^ Nam* DAVID DEWHURST				PART VII. LIABILITIES													PlgtHwti: 15		
+Report liabilities over $10,000 owed by you, your spouse, or dependent child (See p.3 CONTENTS OF REPORTS Part B of Instructions), to any one creditor at any time during the reporting period. Check the highest amount owed dunng the reporting period. Exclude: (1) Mortgages on your personal residences unless rented; (2) loans secured by automobiles, household furniture or appliances; and (3) liabilities owed to certain relatives listed in Instructions. See Instructions for reporting revolving charge accounts.						Date of Incurred	Interest Rate	Term if Applicable	Category of Amount of Value (x)										
+									o o o in w o o o w	$15,001 -$50,000	$50,001 -$100,000	$100,001 -$250,000	$250,001 - $500,000	$500,001 -$1,000,000	Over $1,000,000*"	$1,000,001 -$5,000,000	$5,000,001 - $25,000,000	$25,000,001 -$50,000,000	Over $50,000,000
+Name of Creditor			Address		Type of Liability														
+s, Example. DC, or J		First District Bank	Wash., DC		Mortgage on undeveloped land	1991	13%	25yrs			X		E	X	A	M	P	L	E
+		(J) John Jones	Wash., DC		Promissory Note	1999	10%	On dmd				X	E	X	A	M	P	L	E
+1	Bank of America		300 Convent San Antonio Tx 78205		Promissory Note	6/30/2007	LIBOR + 2.5%	Due 6/30/12									X		
+2	Falcon Seaboard Diversified, Inc.		109 N. Post Oak Lane, Suite 540 Houston, Tx 77024		Promissory Note	1/1/2008	Prime	On dmd									X		
+3	Patricia Hamilton 1995 Investment Tmst		121 N. Post Oak Lane, Suite 2601 Houston, Tx 77024		Promissory Note	11/19/2009	1%- 5%	10/19/2011								X			
+4	Goldman Sachs Margin Account		1000 Louisiana St. Houston Tx 77002		Margin Account	7/31/1996	LIBOR + 1.25%	On dmd								X			
+5	J American Express - Black		Dallas Tx		Credit Card	8/6/2009	None	N/A				X							
+6	American Express - Platinum		Dallas Tx		Credit Card	5/26/2007	None	N/A				X							
+7	S Chase Continental		Palatine IL		Credit Card	1/1/2001	11.99%	N/A	X										
+8	S Chase Southwest Airlines		Palatine IL		Credit Card	4/14/2011	13.24%	N/A	X										
+9	S Saks Fifth Avenue		City of Industry CA		Credit Card	7/2/2009	22.90%	N/A		X									
+X:\Senote Filing May 2012\PART VII Liabilities a

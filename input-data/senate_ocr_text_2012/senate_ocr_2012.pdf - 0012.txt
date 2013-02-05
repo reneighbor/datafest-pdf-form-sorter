@@ -1,0 +1,9 @@
+﻿* Unrealized Profit & Loss by Tax Lot
+s	Unrealized Profit/(Loss)	Unrealized Profit/(Loss)
+Trade Date Quantity Symbol Description	Cost Basis Market Value Short-Term Long-Term Net	%
+07/10/11 5,000.000 .759911G95 REGL TRANSN AUTH ILL SER A OID 97.939/4.63% NXT SNK 07/01/34 NATL-RE GO OF AUTH AA3/AA/AA- UNDER 4.500% Due: 07/01/2035	$4,493.70	$5,030.25	$536.55	$536.55	11.94%
+Total Non-Taxable Fixed Income	$78,601.25	$83,256.35	$4,655.10	$4,655.10	5.92%
+Total Fixed Income	$90,623.75	$95,929.55	$5,305.80	$5,305.80	5.85%
+Total Unrealized Profit/(Loss)	$229,731.96	$239,724.16	$9,992.20	$9,992.20	4.35%
+Please see disclaimers.
+Pago 4 of 6

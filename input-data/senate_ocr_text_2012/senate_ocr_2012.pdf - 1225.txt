@@ -1,0 +1,51 @@
+﻿Charter WCM:
+At December 31, 2007 and 2006, Charter WCM's total capitalization was approximately $84 million and $44 million, respectively.
+December 31, Value at Risk
+Primary Market Risk Category	2007	2006
+% %
+Currency........................................ (0.84) (0.84)
+Interest Rate..................................... (0.60) (0.76)
+Equity.......................................... (0.53) (2.38)
+Commodity...................................... (0.82) (1.08)
+Aggregate Value at Risk ........................... (1.82) (3.14)
+Charter Aspect:
+At December 31, 2007 and 2006, Charter Aspect's total capitalization was approximately $136 million and $124 million, respectively.
+December 31, Value at Risk
+Primary Market Risk Category	2007	2006
+% %
+Interest Rate..........................................................................(1.33)	(0.85)
+Currency................................................(0.82)	(1.00)
+Equity....................................................................................(0.12)	(1.62)
+Commodity............................................................................(1.73)	(1.28)
+Aggregate Value at Risk ......................................................(2.50) . (2.35)
+The VaR for a market category represents the one-day downside risk for the aggregate exposures associated with this market category, The Aggregate Value at Risk, listed above for each partnership, represents the VaR of a partnership's open positions across all the market categories, and is less than the sum of the VaRs for all such market categories due to the diversification benefit across asset classes.
+Because the business of each partnership is the speculative trading of futures, forwards, and options, this composition of a partnership's trading portfolio can change significantly over any given time period, or even within a single trading day. Such changes could positively or negatively materially impact market risk as measured by VaR.
+The tables below supplement the December 31, 2007 VaR set forth above by presenting each partnership's high, low, and average VaR, as a percentage of total net assets for the four quarter-end reporting periods from January 1, 2007 through December 31, 2007,
+Charter Graham
+Primary Market Risk Category
+Equity
+Aggregate Value at Risk ST	Charter Aspect
+^JJT	Primary Market Risk Category
+C3T
+Sp	Interest Rate..........
+tfJT	Currency.............
+WJ)	Equity...............
+QP	Commodity ............(1.95)
+COD	Aggregate Value at Risk
+GCD OP ODD O
+			Charter WCM			
+Hi^	Low	Average	Primary Market Risk Category	High	Low	Average
+%	%	%		%	%	%
+(1.37)	(1.09)	(1.22)	Currency . .............	. (1.08)	(0.74)	(0.86)
+(1.06)	(0.07)	(0.36)	Interest Rate...........	. (1.04)	(0.55)	(0.70)
+(1.20)	(0.09)	(0.56)		. (1.06)	(0.37)	(0.70)
+(0.85)	(0.20)	(0.42)	Commodity ...........	. (0.86)	(0.55)	(0.72)
+(2.21)	(1.09)	(1.57)	Aggregate Value at Risk .	. (2.32)	(1.48)	(1.79)
+High	Low	Average				
+%	%	%				
+(1.48)	(0.83)	(1.14)				
+(1.00)	(0.82)	(0.92)				
+(1.03)	(0.12)	(0.57)				
+(1.95)	(0.70)	(1.30)				
+(2.61)	(1.72)	(2.29)				
+		58				

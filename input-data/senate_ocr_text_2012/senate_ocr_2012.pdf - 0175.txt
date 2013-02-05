@@ -1,0 +1,26 @@
+﻿Reporting l^v^Xsgp^
+Crapo, Michael D.
+Iment
+PART IV. TRANSACTIONS
+Page Number
+14
+Report any purchase, sale, or exchange by you, your spouse, or dependent child (See p.3 CONTENTS OF REPORTS Part B of Instructions) during the reporting period of any real property, stocks, bonds, commodity futures, and other securities when the amount of the transaction exceeded $1,000. Include transactions that resulted in a loss. Do not report a transaction involving property used solely as your personal residence, or a transaction between you, your spouse, or dependent child. Please clarify which two properties are involved in any reportable exchange.				Transaction Type (x)													o	
+				o t/> TO s: o k.	®	4> O) C <0 JC u	Transaction Date (Mo., Day, Yr.)	001 -$15,000	>,001 - $50,000	),001 -$100,000	)0,001 -$250,000	$250,001 -$500,000	)0,001 -$1,000,000	* * * o o o o o o in <D	000,001 -$5,000,000	000,001 -$25,000,000	3,000,001 -$50,000,00	o o o o" o o o" m in <D
+Identification of Assets				3 O-	ra CO	X HI		in	UJ	m			m in	> o		in in	UJ CM in	> O
+		S,	IBM Corp. (stock) NYSE	X			2/1/1X		X			E	X	A	M	P	L	E
+example: uo, or J			(DC) Microsoft (stock) NASDAQ/OTC		X		1/27/1X				X	E	X	A	M	P	L	E
+1	J	BAKER HUGHES INC, stock, BHI, $2,490.01		X			05/10/2011	X										
+2	J	NATIONAL OILWELL VARCO INC, stock, NOV, $3,382.42			X		05/10/2011	X										
+3	J	CABOT OIL & GAS CORP, stock, COG, $1,264.98		X			05/10/2011	X										
+4	J	FIRST TRUST CONSUMER STAPLES ALPHADEX, ETF, FXG, $2,462.38		X			05/10/2011	X										
+5	J	FRONTIER OIL CORP, stock, FTO, $3,647.25			K		05/10/2011	X										
+6	J	FIRST TRUST CONSUMER STAPLES ALPHADEX, ETF, FXG, $1,002.86		X			05/10/2011	X										
+7	J	SILVER WHEATON CORP, stock, SLW, $1,003.99			X		05/10/2011	X										
+8	J	T. ROWE PRICE GROUP INC, stock, TROW, $1,982.38			X		05/20/2011	X										
+9	J	HEXCEL CORP NEW, stock, HXL, $2,004.49		X			05/20/2011	X										
+to	J	HONEYWELL INTL INC, stock, HON, $1,254.33		X			05/20/2011	X										
+11	J	KIRBY CORP COM, stock, KEX, $1,209.66			X		05/20/2011	X										
+12	J	CONCHO RESOURCES INC, stock, CXO, $1,115.53		X			05/23/2011	X										
+Amount of Transaction (x)
+EXEMPTION TEST (see instructions before marking box): If you omitted any asset because it meets the three-part test for exemption described in the instructions, please check box to the right. This category applies only if the asset isAvas held independently by the spouse or dependent child. If the asset is/was either held by the filer or jointly held, use the other categories of value, as appropriate. -1-1_
+□

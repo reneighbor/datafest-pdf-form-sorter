@@ -1,0 +1,47 @@
+﻿(d)	Action Without Meeting. Notwithstanding contrary provisions of this Section 15 covering notices to, meetings of, and voting by Limited Partners, any action required or permitted to be taken by Limited Partners at a meeting or otherwise may be taken by Limited Partners without a meeting, without prior notice, and without a vote if a consent in writing setting forth the action so taken shall be signed by Limited Partners owning Units having not fewer than the minimum number of votes that would be necessary to authorize or take such action at a meeting of Limited Partners at which all outstanding Units shall have been present and voted. Notice of the taking of action by Limited Partners without a meeting by less than unanimous written consent of the Limited Partners shall be given to those Limited Partners who shall not have consented in writing within seven business days after the occurrence thereof.
+(e)	Amendments to Certificate of Limited Partnership. If an amendment to this Agreement shall be made pursuant to this Section 15, the General Partner shall be authorized to execute, acknowledge, swear to, deliver, file, record, and publish, on behalf of the Partnership and each Partner, such amendments to the Certificate of Limited Partnership as shall be necessary or desirable to reflect such amendment.
+16. Index of Defined Terms.
+Defined Term	Section
+1940 Act........................................................................15(a)
+Act..................................................................................1
+Advisers Act..................................................................15(a)
+Affiliate..........................................................................14(c)
+Agreement ....................................................................Preamble
+CEAct .....*.................................................................8(e)
+Certificate of Limited Partnership..............................1
+CFTC..............................................................................3
+Charter Series Partnership(s)......................................10(b)
+Code ................."............................................7(c)(4)
+Commodity Broker ......................................................6
+Customer Agreement....................................................8(b)
+Determination Date......................................................7(b)
+Exchange Agreement and Power of Attorney ..........10(c)
+Exchange Date ..............................................................10(c)
+Futures Interests .........................................................3
+General Partner ..............................-	Preamble
+Initial Closing................................................................6
+Initial Offering................................6
+Limited Partners ..........................................................Preamble
+Management Agreement..............................................8(b)
+NASAA Guidelines......................................................5
+Net Asset Value............................................................7(d)(2)
+Net Assets......................................................................7(d)(1)
+NFA................................................6
+Non-Series Exchange....................................................10(b)
+Partners..........................................................................Preamble
+Partnership...................................................1
+Prospectus ....................................................................6
+Pyramiding....................................................................8(c)(5)
+Redemption ..................................................................10(b)
+Redemption Date..........................................................10(b)
+Request for Redemption..............................................10(b)
+SEC ................................................................................5
+Selling Agent................................................................6
+Series Exchange............................................................10(c)
+Special Redemption Date..............................9
+Trading Advisor............................................................6
+Trading Profits..............................................................7(e)
+Transaction Fees and Costs ........................................7(e)
+Unit(s) of General Partnership Interest......................6
+Unit(s) ..........................................................................6
+A-22

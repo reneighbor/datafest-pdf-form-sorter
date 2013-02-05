@@ -1,0 +1,25 @@
+﻿
+Reporting IndMdual's Name
+Daniel R. Liljenquist
+PART VIII. POSITIONS HELD OUTSIDE U.S. GOVERNMENT
+Page Number
+7
+Report any positions held by you during the applicable reporting period whether compensated or not. Positions include, but are not limited to those of an officer, director, trustee, general partner, proprietor, representative, employee, or consultant of any corporation, firm, partnership, or other business enterprise or any non-profit organization or educational institution. Both the year and month must be reported for the period of time that the position was held.
+Exclude: Positions with federal government, religious, social, fraternal, or political entities, and those solely of an honorary nature.
+Name of Organization			Address (City, State)	Type of Organization	Position Held	From (Mo/Yr)	To (Mo/Yr)
+Example:		National Assn. of Rock Collectors	NY,NY EXAMPLE	Non-profit education	President	6/91	Present
+		Jones & Smith	Hometown, USA EXAMPLE	Law Firm	Partner	7/96	11/1X
+1	Connections Academy - Utah		see West 750 South, Suite 110, Woods Cross, Utah 84010	Non-profit education	Board member	03/2011	01/2012
+2	First Call Savings, LLC		4102 South 1900 West, Roy, Utah 84067	Telecom sales company	President	11/2010	12/2012
+3	Laura & John Arnold Foundation		1800 Post Oak Blvd, Suite 380, Houston, Texas 77056	Non-profit organization	Consultant	03/2011	12/2011
+4	State of Utah		2110 State Office Building, Salt Lake City, Utah 84114	State government	State senator	01/2009	12/2011
+5	Focus Services, LLC		4102 South 1900 West, Roy, Utah 84067	Call center service provider	President & COO	10/2005	01/2011
+6							
+7							
+8							
+9							
+10							
+i11							
+12							
+13							
+Compensation in excess of $200 from any position must be reported in Part II.

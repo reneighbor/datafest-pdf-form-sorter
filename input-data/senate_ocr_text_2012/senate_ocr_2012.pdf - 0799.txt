@@ -1,0 +1,27 @@
+﻿
+Reporting Individual's Name: Claire McCaskill
+PART IIIA. PUBLICLY TRADED ASSETS AND UNEARNED INCOME SOURCES
+	Block A Identity of Publicly Traded Assets		Block B Valuation of Assets								Block C Type and Amount of Income																
+	and Unearned Income Sources	At Close of Reporting						Period					Typ	e of Income					Amount of Income								
+S, DCorJ	Name	None (or less than $1,001)	$1,001-$15,000	o o o" vn o C5 &e	$50,001-$100,000	o o o o" m <N W) r O o o" o </>	$250,001-$500,000	$500,001-$ 1,000,000	* * * o o o o o GO <L> > o		Dividends	Rent	Interest	Capital Gains	Excepted Investment Fund	Excepted Trust	Qualified Blind Trust	Other (Specify)	None (or less than $201)	$201-$ 1,000	$ 1,001 -$2,500	o o <3 fee * o of	o o vT fee i o o_ vT oe	$15,001-$50,000	o o C3 o" o i/i o <o o" fee	$100,001-$1,000,000	* * * o o o o o o^ fee <u > O
+S	Client Interest Program			X									X						X								
+s	Clorox Company				X						X											X					
+s	Duke Energy Corp. 6.300% 02/01/14	X											X	X									X				
+s	EFSC (NYSE)								X		X															X	
+s	Enterprise Money Market Fund						X						X							X							
+s	Federal Home Loan Bank Callable (due 06-10-11)	X											X							X							
+s	Federated Prime Oblig Inst							X					X							X							
+s	FHLB 5.000% 11/17/17	X											X	X							X						
+s	FHLMC 4.875% 11/15/13	X											X	X							X						
+s	FHLMC Pool #G0458 5.500% 08/01/38	X											X	X						X							
+s	FHLMC Pool #G 13240 5.000% 08/01/23	X											X	X							X						
+s	FHLMC Pool #G 13241 5.500% 08/01/23	X											X	X						X							
+s	FN MA Pool #899298 5.000% 03/01/22	X											X	X						X							
+s	FNMA Pool #964720 6.000% 05/01/38	X											X	X						X							
+s	GMAC 2.200% 12/19/12	X											X	X						X							
+s	GNMA II 003515					X							X										X				
+s	GNMA II 003529					X							X										X				
+s	GNMA II 003531				X								X										X				
+s	GNMA II 003702					X							X										X				
+s	GNMA PL 548300					X							X										X				
+s	GNMA PL 553248				X								X								X						

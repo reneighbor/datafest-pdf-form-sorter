@@ -1,0 +1,21 @@
+﻿Break Even Analysis
+Following is a table that sets forth the fees and expenses that you would incur on an initial investment of $20,000 in a partnership and the amount that your investment must earn, after taking into account estimated interest income, in order to break even after one year and after more than two years. The fees and expenses applicable to each partnership are described above.
+$20,000 Investment Charter Series Partnerships
+Management Fee W..........................................................................................400
+Brokerage Fee W ..............................................................................................1,200
+Less: Interest Income ..................................................................................280
+Incentive Fee W.........................................................—
+Redemption Charge ..............................................400
+Amount of trading profits a partnership must earn for you to recoup your initial investment at the end of one year after paying a
+redemption charge ........................................................................1,720
+Trading profits as a percentage of net assets that a partnership must earn for you to recoup your initial investment at the end of one year
+after paying a redemption charge..............................................................8.60%
+Amount of trading profits a partnership must earn each year for you to recoup your initial investment after two years with no redemption
+charge........................................................................1,320
+Trading profits as a percentage of net assets that a partnership must earn each year for you to recoup your initial investment after two years with no redemption charge..............................................................6.60%
+(1)	The management fee is payable to each trading advisor.
+(2)	The brokerage fee is payable to Morgan Stanley & Co. Incorporated.
+(3)	Amounts equal to the commodity brokers' margin requirements on the partnerships' current futures, forward and options contracts will be credited with interest income at a rate approximately equivalent to the rate the commodity brokers pay other similar customers on margin deposits. Partnership funds in excess of such current margin requirements but available to satisfy margin requirements will be credited at each month end with interest income at a rate equal to the monthly average of the 4-Week U.S. Treasury bill discount rate during such month. This combined rate used for this break even analysis is estimated to be approximately 1.40%. Investors should be aware that the break even analysis will fluctuate as interest rates fluctuate, with the break even percentage decreasing as interest rates increase or increasing as interest rates decrease.
+(4)	Incentive fees are paid to a trading advisor only on trading profits earned. Trading profits are determined after deducting all partnership expenses, other than any extraordinary expenses, and do not include interest income. Therefore, incentive fees will be zero at the partnership's break even point.
+(5)	Units redeemed at the end of 12 months from the date of purchase are generally subject to a 2% redemption charge; after 24 months there are no redemption charges.
+9

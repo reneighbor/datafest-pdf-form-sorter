@@ -1,0 +1,23 @@
+﻿Addendum to Part IV Transactions
+_ (2011)_
+Reporting Individual	■	IPage Number
+Kay Bailey Hutchison	5a
+Identity of Assets	Trans. Date	Trans, Type	Trans. Amount
+Blockbuster	October 13,2011	bankruptcy	less than 201
+Bank of America	August 1,2011	purchased	1,001 -15,000
+	September 27, 2011	purchased	201-1,000
+Celgene	October 14, 2011	sold	1,001- 15,000
+Community Trust Bank (savings) February 9, 2011		opened account	200,001-500,000
+Dell Computer	July 14, 2011	sold	15,001 -50,000
+J.P. Morgan Chase	■ August 3, 2011	purchased	1,001 - 15,000
+	September 16,2011	purchased	1,001 -15,000
+	Octobcr 7,2011	purchased	1,001 - 15,000
+Kinder Morgan Partners	August 8,2011	purchased	1,001 - 15,000
+Verizon	September 15,2011	purchased	1,001 - 15,000
+Fidelity I Shares Dow Jones	August 9, 2011	purchased	1,001 - 15,000
+Fidelity Floating Rate High Income January 31, 2011		purchased	15,001-50,000
+Vanguard Tax Exempt Mon Mkt April 8, 2011		sold	100,000-250,000
+Vanguard Inter Term Tit Exempt April 8, 2011		purchased	15,000-50,000
+Vanguard GNMA	April 8, 2011	purchased	15,000-50,000
+Vanguard Star Fund	August 4, 2011	purchased	201 - 1,000
+Vanguard Short Term Bond Index December 30, 2011		purchased	15,000-50,000

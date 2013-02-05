@@ -1,0 +1,18 @@
+﻿Reporting Individual's Name Allen, George F.			PART II. EARNED AND NON-INVESTMENT INCOME				Page Number z
+Report the source (name and address), type, and amount of earned income to you from any source aggregating $200 or more during the reporting period. For your spouse, report the source (name and address) and type of earned income which aggregate $1,000 or more during the reporting period. No amount needs to be specified for your spouse. (See p.3, CONTENTS OF REPORTS Part B of Instructions.) Do not report income from employment by the U.S. Government for you or your spouse. Individuals not covered by the Honoraria Ban: For you and /or your spouse, report honoraria income received which aggregates $200 or more by exact amount, give the date of, and describe the activity (speech, appearance or article) generating such honoraria payment. Do not include payments in lieu of honoraria reported on Part I.							
+Name of Income Source				Address (City, State)	Type of Income	Amount	
+Example:		JP Computers		Wash., DC Example	Salary Example	$15,000	
+		MCI (Spouse)		Arlington, VA Example	Salary Example	Over $1,000	
+1	Lee Technologies Services, Inc.			Fairfax, VA	Director services	$7,500	
+2	Writer's Representatives, LLC (from Regnery Publishing, Inc.)			New York, NY	Residual book fees	$4,250	
+3	George Allen Strategies, LLC			Alexandria, VA	Business income	$347,787	
+4	American Energy Freedom Center			Alexandria, VA	Chairman services	$20,000	
+5	Lee Technologies, Inc.			Fairfax, VA	Director services	$20,000	
+6	Ohio Coal Association			Columbus, OH	Speaking fee (08/2010)	$5,000	
+7	Greater Bluefield Chamber of Commerce			Bluefield, WV	Speaking fee (10/2010)	$2,500	
+8	Academy for Continued Healthcare Learn			Chicago, IL	Speaking fee (06/2010)	$1,000	
+9	Nano Risk Assessment, Inc.			Austin, TX	Director services	$500	
+10	Young America's Foundation			Herndon, VA	Speaking fee (08/2010)	$1,000	
+11	Republican Central Committee of Harford Co., MD			Bel Air, MD	Speaking fee (05/2010)	$5,000	
+12	Hampden-Sydney College			Farmville, VA	Speaking fee (01/2011)	$5,000	
+13	SBA Concepts LLC (spouse)			Alexandria, VA	Business income	(n/a: spouse)	

@@ -1,0 +1,19 @@
+﻿Reporting InaWlcJuaFs Name ^ r ' " Allen, George F.			PART VIII. POSITIONS HELD OUTSIDE U.S. GOVERNMENT					Page Number 6
+Report any positions held by you during the applicable reporting period whether compensated or not. Positions include, but are not limited to those of an officer, director, trustee, general partner, proprietor, representative, employee, or consultant of any corporation, firm, partnership, or other business enterprise or any non-profit organization or educational institution. Both the year and month must be reported for the period of time that the position was held. Exclude: Positions with federal government, religious, social, fraternal, or political entities, and those solely of an honorary nature.								
+Name of Organization				Address (City, State)	Type of Organization	Position Held	From (Mo/Yr)	To (Mo/Yr)
+Example:		National Assn. of Rock Collectors		NY,NY EXAMPLE	Non-profit education	President	6/91	Present
+		Jones & Smith		Hometown, USA EXAMPLE	Law Firm	Partner	7/96	11/1X
+1	Reagan Ranch of Young America's Foundation			Santa Barbara, CA	non-profit	Board o* Governor* & Reagan Rant* Presidential Scholar	03/07	present
+2	Appalachian School of Law			Grundy, VA	Non-profit education	Board of Trustees	2000	present
+3	Virginia Commonwealth University School of Engineering			Richmond, VA	Non-profit education	Board of Trustees	1999	present
+4	Atlantic Rural Exposition, Inc.			Richmond, VA	Non-profit	Honorary Board Member	1998	01/10
+5	American Energy Freedom Center			Mt. Vernon, VA	Non-profit	Chairman	01/10	12/10
+6	Communities In Schools q			Richmond, VA q	Non-profit q	Co-Chair q	1999 q	present q
+7	Appalachia America Energy Research Center			Norton, VA	Non-profit	Management Advisory Board Member	05/10	10/10
+8	American Action Network			Washington, DC	Non-profit	Board Member	02/10	01/11
+9	Resurgent Republic			Alexandria, VA	Non-profit	Advisory Board Member	04/09	01/11
+10	Virginia Universities Clean Energy Development and Economic Stimulus Foundation			Richmond, VA	Non-profit	Board Member	07/10	present
+11	Mid-Atlantic Hispanic Chamber of Commerce			Germantown, MD	Non-profit	Board of Advisors	05/10	present
+12	Hampton Roads Proton Beam Therapy Institute at Hampton University			Hampton, VA	Non-profit	Board of Directors	07/09	present
+13	American Energy Freedom Center of The Institute For Energy Research			Washington, DC	Non-profit	Chairman	04/09	01/10
+Compensation in excess of $200 from any position must be reported in Part II.								

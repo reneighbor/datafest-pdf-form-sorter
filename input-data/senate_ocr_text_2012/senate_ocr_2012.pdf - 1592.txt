@@ -1,0 +1,17 @@
+﻿— feaOQQ5 9
+			Page 6 of 6 DONALD B STENBERG WFBNA CUSTODIAN SEP IRA
+			DECEMBER 1 - DECEMBER 31, 2011 ACCOUNT NUMBER: WtB
+Stocks, options & ETFs			
+Stocks and ETFs continued DESCRIPTION	% OF ACCOUNT QUANTITY	CURRENT PRICE	ESTIMATED CURRENT ANNUAL ANNUAL MARKET VALUE INCOME YIELD (%)
+POINT BLANK SOLUTIONS INC PBSOQ	1.53 5,000	0.3400	1,700.00 N/A N/A
+			
+TIERONE CORP TONEQ	0.01 3,000	0.0020	6.00 N/A N/A
+Total Stocks and ETFs	70.39		$78,182.34 $1,383.20 1.77
+Total Stocks, options & ETFs	70.39		$78,182.34 $1,383.20 1.77
+Activity detail DATE ACCOUNT TYPE	TRANSACTION/ CHECK NUMBER	QUANTITY DESCRIPTION	CASH AND SWEEP PRICE AMOUNT BALANCES
+12/01		BEGINNING BALANCE	32,619.49
+12/30 Cash 12/30 Cash 12/30 Cash	DIVIDEND DIVIDEND INTEREST	CENOVUS ENERGY INC 123011 700 ENCANACORP 123011 700 BANK DEPOSIT SWEEP 123011 32.619	135.44 140.00 0.28 32,895.21
+Cash sweep activity Our Cash Sweep program allows you to earn a return on the idle cash balances in your account by automatically investing such balances into one of our cash sweep options. These 'sweep transactions' may represent a net amount for the day and occur on settlement date. The following section displays transfers into and out of your sweep option. Transactions displayed here are Transfer To, Transfer From and Reinvested Dividends and Interest. These transaction amounts are not included in your cash flow summary. DATE TRANSACTION DESCRIPTION AMOUNT DATE TRANSACTION DESCRIPTION AMOUNT			
+12/01	BEGINNING BALANCE	32,619.49 12/31	ENDING BALANCE 32,619.77
+12/30	REINVEST INT	BANK DEPOSIT SWEEP	0.28
+020 GL GL51

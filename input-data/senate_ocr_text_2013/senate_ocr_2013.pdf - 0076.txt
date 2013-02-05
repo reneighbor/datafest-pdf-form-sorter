@@ -1,0 +1,21 @@
+﻿Reporting Individual's Name E. Benjamin Nelson		TRANSACTIONS (continued) (use only if needed)													'age Numbs? 7	
+						Amount of Transaction (x)										
+Identification of Assets		Transaction Type (x)			Transaction Date (Mo.. Day, Yr.)	$1,001 -$15,000	$15,001 - $50,000	$50,001 -$100,000	$100,001 -$250,000	$250,001 - $500,000	$500,001 -$1,000,000	* s o o o o" o o. T— w ? o	$1,000,001 -$5,000,000	$5,000,001 - $25,000,000	$25,000,001 - $50,000,000	Over $50,000,000
+		Purchase	CJ T3 CO	Exchange												
+1	(a) Vanguard Ltd-Term Tax-Exempt (bond)	X			12-27-12				X							
+2	(s) Berkshire Hathaway CL A (stock)		X		12-20-12						X					
+3	(s) Plmco Commodity Real Ret Fund (bond)	X			12-21-12			X								
+4	(s) Templeton Global Bond Fund (bond)	X			12-21-12			X								
+5	(s) Berkshire Hathaway CL A (stock)		X		12-19-12						X					
+6	(s) Goldman Sachs Struct Intl Small Cap Inst (bond)	X			12-19-12		X									
+7	(s) Oppenheimer Developing Markets Y (bond)	X			12-19-12			X								
+8	(s) T. Rowe Price Blue Chip Growth Fund (bond)	X			12-19-12				X							
+9	(s) Berkshire Hathaway CL A (stock)		X		12-14-12						X					
+10	(s) Harbor International Fund (bond)	X			12-12-12				X							
+11	(s) Berkshire Hathaway CL A (stock)		X		12-10-12						X					
+12	(s) Berkshire Hathaway CL A (stock)		X		12-4-12						X					
+13	(s) Tributary Small Company Fund (bond)	X			12-4-12			X								
+14	(s) Tributary Growth Opps Inst (bond)	X			12-4-12				X							
+15	(s) Pimco Commodity Real Ret Fund (bond)	X			12-4-12			X								
+16	(s) Prudential Global Real Estate Fund (bond)	X			12-4-12			X								
+17	(s) Hoskins Neb Rural Fire Protect 3.75% (bond)		X		12-17-12		X									

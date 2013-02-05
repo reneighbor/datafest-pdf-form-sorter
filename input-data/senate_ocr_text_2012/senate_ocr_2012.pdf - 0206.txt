@@ -1,0 +1,38 @@
+﻿
+Report rg Indnnctutfs Name
+DIANNE FEINSTEIN
+PART IIIA. PUBLICLY TRADED ASSETS AND UNEARNED INCOME SOURCES (Assets owned by spouse through Blum Capital Partners, LP.)
+PsgaNunbar 6
+BLOCKA
+identity of Publicly Traded Assets And Unearned Income Sources
+Report the complete name of each publicly traded asset held by you, your spouse, or your dependent child, (Seep.3, CONTENTS OF REPORTS Part B of instructions) for production of Income or Investment which:
+(1)	had a value exceeding $1,000 at the close of the reporting period; and/or
+(2)	generated over $200 in "unearned" income during the reporting period.
+Include on this PART IIIA a complete identification of each public bond, mutual fund, publicly traded partnership interest, excepted investment funds, bank accounts, excepted and qualified blind tmsts, and publicly traded assets of a retirement plan.
+s,
+Example: DC.
+IBM Corp. (stock)
+BLOCKB Valuation of Assets
+At the dose of reporting period. If None, or less than 51.001, Check the first column.
+8.
+BLOCKC Type and Amount of Income
+if "None (or less than $201)" is Checked, no otter entry Is needed in Block C for that Rem. This includes income received or accrued to the benefit of the individual.
+Type of Income
+Other
+(Specify Type)
+Example
+Amount of Income
+Actual Amoun
+Require d if
+"Other' Specific d
+Exampl
+(S) Keystone Fund
+Example
+Exampl
+S Blum Capital Partners, L.P.:
+eResearch Technology, Inc.
+Common Stock
+P^GX Global, Inc.
+Common Stock
+Career Education Corporation
+Common Stock

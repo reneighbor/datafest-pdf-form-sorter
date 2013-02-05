@@ -1,0 +1,35 @@
+﻿
+INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule III Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31, 2011
+Initial Cost (A)	Gross amount at which carried at end of period
+Date of Completion
+Adjustments	of
+to Land	Construction
+			Buildings and	Basis	Adjustments	Land and	Buildings and		Accumulated	or
+	Encumbrance	Land	Improvements	(C)	to Basis (C)	Improvements	Improvements (D)	Total (D,E) 1	Depreciation (D,F)	Acquisition
+1800 BRUNING	10,156	10,000	7,971	—	83	10,000	8,053	18,053	1,494	2006
+Itasca, IL										
+500 HARTLAND	5,860	1,200	7,459	—	—	1,200	7,459	8,659	1,413	2006
+Hartland, Wl										
+55th STREET	7,351	1,600	11,115	—	—	1,600	11,115	12,715	2,105	2007
+Kenosha, Wl										
+AIRPORT DISTRIB CENTER	2,042	600	2,861	(257)	(1,668)	343	1,194	1,536	12	2007
+#10										
+Memphis, TN										
+AIRPORT DISTRIB CENTER #11 Memphis, TN	1,539	400	2,120	(169)	(1,236)	231	884	1,114	—	2007
+										
+AIRPORT DISTRIB CENTER	1,203	200	1,651	(83)	(970)	117	680	797	—	2007
+#15										
+Memphis, TN										
+AIRPORT DISTRIB CENTER	2,714	600	3,750	(254)	(2,210)	346	1,541	1,887	—	2007
+#16										
+Memphis, TN										
+AIRPORT DISTRIB CENTER	1,007	200	1,317	(84)	(738)	116	579	695	18	2007
+#18										
+Memphis, TN										
+AIRPORT DISTRIB CENTER	2,546	600	3,866	(257)	(2,300)	343	1,566	1,909	—	2007
+#19										
+Memphis, TN

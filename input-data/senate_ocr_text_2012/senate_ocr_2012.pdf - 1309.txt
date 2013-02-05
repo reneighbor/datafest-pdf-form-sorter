@@ -1,0 +1,14 @@
+﻿The diversification story supporting managed futures is compelling, as the chart below shows. Since 1980, stocks have declined more than 10% on six occasions, with the average decline of 22.4%. Managed futures has had an average rate of return of 17.6% during those six periods. Since 1980, bonds have declined more than 10% on two occasions, with the average decline of 13.0%. Managed futures has had an average rate of return of 38.0% during those two periods.
+60.00% 40.00% 20.00% 0.00% -20.00% -40.00% -60.00%
+	Dec 80-Jul 82	Sep 87-Nov 87	Jun 90 - Oct 90	Jul 98-Aug 98	Sep 00 - Sep 02	Nov 07-Feb 08
+■ Barclay CTA Index	Up 38.8%	Up 9.7%	Up 18.6%	Up 5.6%	Up 23.1%	Up 9.8%
+□ S&P 500 Index	Down 16.5%	Down 29.6%	Down 14.7%	Down 15.4%	Down 44.7%	Down 13.5%
+60.00% 40.00% 20.00% 0.00% -20.00% -40.00% -60.00%
+Managed Futures vs. Stocks
+Managed Futures vs. Bonds
+	Jan 80-Mar 80	Jul80-Sep81
+■ Barclay CTA Index	Up 36.9%	Up 39.1%
+Citigroup Corporate Bond tndex	Down 11.3%	Down 14.7%
+Data: January 1980 - February 2008. Monthly returns for the S&P 500 Index and the Citigroup Corporate Bond Index provided by PerTrac Financial Solutions, LLC (Memphis, TN) and monthly returns for the Barclay CTA Index provided by Barclay Hedge Ltd. (Fairfield, IA). Managed futures investments do not replace equities or bonds but rather act as a complement to help smooth overall portfolio returns. Managed Futures data reflect the fee structure of commodity trading advisors managing individual accounts and do not reflect fee structures of commodity pools, which are typically higher.
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+142

@@ -1,0 +1,18 @@
+﻿Reporting Individual slMame 1 [_j Amendment		Page Number
+Burr, Richard M.	PART V. GIFTS	7
+Report the source, brief description and value of all gifts aggregating more than $350 in value received by you, your spouse, or your dependent child, (See p.3 CONTENTS OF REPORTS Part B of Instructions), from each source. Gifts with a value of $140 or less need not be aggregated towards the disclosure threshold. "Gift" is defined in the Instructions.
+Exclude: (1) Bequests and other forms of inheritance; (2) Political campaign contributions; (3) Communications to your offices including subscriptions to newspapers and periodicals; (4) Consumable products provided by home state businesses to your offices, if those products are intended for consumption by persons other than yourself; (5) Gifts received prior to your Federal employment; (6) Gifts to your spouse or dependent child totally independent of his or her relationship to you; (7) Gifts from relatives; (8) Personal hospitality of any individual (see instructions); (9) meals and beverages unless consumed in connection with a gift of overnight lodging; and (10) Food, lodging, transportation, and entertainment provided by a foreign government within a foreign country, or by federal, state, D.C., or local governments.
+Name of Income Source		Address of Source	Dates and Brief Description	Gift Value
+Example: | Mr. John Q. Smith		Anytown, VA EXAMPLE	August 12, 201X, Silver platter - Ethics Committee wedding waiver granted	$400
+1	N/A			
+2				
+3				
+4				
+5				
+6				
+7				
+8				
+9				
+10				
+11				
+Note: The Senate Gift Rule prohibits most gifts from lobbyists and foreign agents and most gifts from other sources in excess of $49.99.

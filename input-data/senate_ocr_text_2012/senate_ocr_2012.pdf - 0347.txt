@@ -1,0 +1,64 @@
+﻿Income Report
+Fiscal Year Ending 12/31/2011
+^t^^ Graham IRA Seneca, SC 29679
+Interest: Tax Free
+				Unclassified	
+	Date	Qualified	Non-Qualified	Dividend	Total
+Name of Paver	Received	Amount	Amount	Amount	Amount
+TD BANK USA FD1C INSRD D	03/31/2011		0.01		0.01
+TD BANK USA FD1C INSRD D	04/29/2011		0.01		0.01
+TD BANK USA FDIC INSRD D	06/30/2011		0.01		0.01
+TD BANK USA FDIC INSRD D	07/29/2011		0.01		0.01
+TD BANK USA FDIC INSRD D	08/31/2011		0.01		0.01
+TD BANK USA FDIC INSRD D	09/30/2011		0.01		0.01 4
+TD BANK USA FDIC INSRD D	10/31/2011		0.01		0.01
+TD BANK USA FDIC INSRD D	11/30/2011		0.01		0.01
+TD BANK USA FDIC INSRD D	12/30/2011		0.02		0.02
+0.10
+0.10
+Total interest: tax free
+0.10
+0.10
+Dividends: Tax Free
+Name of Paver
+Date Received
+Qualified Amount
+Non-Qualified _Amount
+Unclassified Dividend Amount
+Total Amount
+CASH
+05/23/2011
+0.01
+0.01
+Dodge & Cox Stock Fund Dodge & Cox Stock Fund Dodge & Cox Stock Fund Dodge & Cox Stock Fund
+03/29/2011 06/28/2011 09/27/2011 12/21/2011
+33.40 41.75 33.40 37.91
+146.46
+33.40 41.75 33.40 37.91
+146.46
+Homestead Value Fund	06/30/2011	82,80	82.80
+Homestead Value Fund	12/30/2011	87.00	87.00
+169.80	169.80
+K
+D iH
+Ml
+o 0
+o ©
+o 0
+Meridian Growth Fund Meridian Growth Fund
+Pennsylvania Mutual Fund
+Royce Total Return Fund Roycc Total Return Fund Royce Total Return Fund
+12/15/2011 12/15/2011
+28.36
+6.96
+6.96
+12/08/2011
+03/10/2011 06/09/2011 09/08/2011
+28.36
+17.78
+15.78 22.09 22.09
+28.36 6.96
+35.32
+17.78
+15.78
+22.09 22.09

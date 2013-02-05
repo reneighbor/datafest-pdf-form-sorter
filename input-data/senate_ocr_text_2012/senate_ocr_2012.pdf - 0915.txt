@@ -1,0 +1,41 @@
+﻿38GDQ595 99 2
+Reporting Individuafi Nam® DAVID DEWHURST			PART IIIB. NON-PUBLICLY TRADED ASSETS AND UNEARNED INCOME SOURCES																																Poga Numt>o» Addendum Pg. 12
+BLOCK A Identity of Non-Publlcly Traded Assets And Unearned Income Sources			BLOCK B Valuation of Assets												BLOCK C Type and Amount of Income																				
+															Type of Income									Amount of Income											
+			None ( or less than $1,001)	W> 1 8	$15,001 -$50,000	$50,001 -$100,000	$100,001 -$250,000	$250,001 - $500,000	$500,001 -$1,000,000	• * > O	$1,000,001 -$5,000,000	iO CN 8 &	$25,000,001 - $50,000,000	Over $50,000,000	None	Dividends	c 0) oc	Interest	Capital Gains	Excepted Investment Fund	Excepted Trust	Qualified Blind Trust	Other (Specify Type)	None (or less than $201)	$201 - $1,000	$1,001 -$2,500	$2,501 - $5,000	$5,001 -$15,000	o <o 8 «o	$50,001 -$100,000	$100,001 -$1,000,000	Over $1,000,000 "*	l I |	Over $5,000,000	Actual Amount Required if "Other" Specified
+1		INTERNATIONAL PAPER CO. CMN					X									X											X								
+2		JPMORGAN CHASE & CO CMN					X									X			X									X							
+3		MAGELLAN HEALTH SERVICES. INC. CMN		X											X									X											
+4		MICROSOFT CORPORATION CMN					X									X											X								
+5		MONSANTO COMPANY CMN	X													X			X									X							
+6		PEPSICO INC CMN	X													X										X									
+7		PFIZER INC. CMN	X													X			X									X							
+8		PHILLIPS-VAN HEUSEN CORP CMN	X													X			X									X							
+9		PPG INDUSTRIES INC. CMN	X													X			X							X									
+10		PPL CORPORATION CMN					X									X											X								
+11		PUT/CF @ 150 EXP 03/17/2012	X																X							X									
+12		PUT/CF @ 155 EXP 04/21/2012	X												X									X											
+13		PUT/SPY @ 115 EXP 01/21/2012	X																X									X							
+14		PUT/SPY @ 115 EXP 02/18/2012	X																X							X									
+15		PUT/S PY @ 120 EX P 02/18/2012	X																X								X								
+16		PUT/SPY @ 121 EXP 02/18/2012	X																X							X									
+17		PUT/SPY @ 124 EXP 02/18/2012	X																X							X									
+18		PUT/SPY @ 125 EXP 02/18/2012	X																X							X									
+19		PUT/SPY @ 125 EXP 03/17/2012	X																X									X							
+20		PUT/SPY @ 125 EXP 03/30/2012	X																X								X								
+21		PUT/SPY @ 125 EXP 04/21/2012	X																X										X						
+22		PUT/SPY @ 126 EXP 03/17/2012	X																X							X									
+23		PUT/SPY @ 126 EXP 04/21/2012	X												X									X											
+24		PUT/SPY @ 126 EXP 05/19/2012	X												X									X											
+25		PUT/SPY @ 127 EXP 03/17/2012	X																X							X									
+26		PUT/SPY @ 128 EXP 03/17/2012	X																X							X									
+27		PUT/SPY @ 130 EXP 05/19/2012	X												X									X											
+28		PUT/SPY @ 131 EXP05/19/2012	X												X									X											
+29		PUT/S PY @ 132 EXP 04/21/2012	X												X									X											
+30		SPDR S8.P 500 ETF TRUST	X													X			X												X				
+31		SPDR S&P BANK ETF	X													X										X									
+32		STARWOOD HOTELS & RESORTS CMN				X										X									X										
+33		TERADYNE INC CMN	X																X									X							
+34		VERIZON COMMUNICATIONS INC. CMN	X													X											X								
+35		VISA INC. CMN CLASS A	X													X			X									X							
+X:\Senate Filing May 2012\IIIB FSIC ADDENDUM FSIC Harding Loevner

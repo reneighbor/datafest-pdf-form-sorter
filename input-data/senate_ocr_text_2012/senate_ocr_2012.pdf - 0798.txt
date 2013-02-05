@@ -1,0 +1,25 @@
+﻿GDOO08O5 577
+4
+Reporting Individual's Name: Claire McCaskill
+PART IIIA. PUBLICLY TRADED ASSETS AND UNEARNED INCOME SOURCES
+	Block A Identity of Publicly Traded Assets and Unearned Income Sources	Block B Valuation of Assets At Close of Reporting Period								Block C Tvpe and Amount of Income																
+										Type of Income								Amount of Income								
+S, DC or J	Name	None (or less than $1,001)	$1,001-515,000	$15,001-$50,000	$50,001-5100,000	$100,001-5250,000	$250,001-5500,000	$500,001-$1,000,000	* * * o o <=r o o te > o	Dividends	Rent	Interest	Capital Gains	Excepted Investment Fund	Excepted Trust	Qualified Blind Trust	Other (Specify)	None (or less than $201)	$201-$1,000	o o <N & O o s	$2,501-$5,000	$5,001-$15,000	o o CD <=T »n o o <X iSt	$50,001-5100,000	5100,001-51,000,000	* * * o o <D O <o <u > o
+	Missouri 2020 Fund (State of M issouri 457 Plan & 401(a))		X							X		X		X				X								
+	Jackson Country MO Defined Benefit Plan / Missouri Prosecuting Attorneys and Circuit Attorneys Retirement System	X								X		X		X				X								
+	MO Legislature Defined Benefit Plan (Monthly benefit $0-$1000)	X								X		X		X				X								
+	State of Missouri Defined Benefit Plan	X								X		X		X									X			
+	UMB Bank, n.a.				X							X						X								
+S	Bank of America		X									X						X								
+S	Enterprise Bank and Trust					X						X						X								
+S	PNC Bank			X								X						X								
+S	Abbott Labs 5.125% 04/01/19	X										X	X							X						
+S	American Beacon INTL EQU Inst Class				X					X				X							X					
+S	American Express 7.300% 08/20/13	X										X	X									X				
+S	ATT 8.375% 03/15/13	X										X	X									X				
+s	Bank of America Corp. 2.100% 04/30/12	X										X	X						X							
+s	Bank of America MTN 5.625% 07/01/20	X										X	X						X							
+s	Berkshire Hathaway CLB (BRKB)			X						X								X								
+s	BRK A (NYSE)							X		X								X								
+s	Capitol TR XII PFD 10.5% Cumulative (due 09-30-38)			X								X						X								
+s	Citigroup 1.875% 11/15/12	X										X	X						X							

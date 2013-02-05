@@ -1,0 +1,25 @@
+﻿Reporting Ind
+Crapo, Michael D.
+
+Pago Number
+PART IV. TRANSACTIONS
+12
+								Amount of Transaction (x)										
+Report any purchase, sale, or exchange by you, your spouse, or dependent child (See p.3 CONTENTS OF REPORTS Part B of Instructions) during the reporting period of any real property, stocks, bonds, commodity futures, and other securities when the amount of the transaction exceeded $1,000. Include transactions that resulted in a loss. Do not report a transaction involving property used solely as your personal residence, or a transaction between you, your spouse, or dependent child. Please clarify which two properties are involved in any reportable exchange.				Transaction Type (x)			Transaction Date (Mo., Day, Yr.)	$1,001 -$15,000	$15,001 -$50,000	$50,001 -$100,000	$100,001 -$250,000	$250,001 -$500,000	$500,001 -$1,000,000	* * * o o o o o o 0) > O	$1,000,001 -$5,000,000	$5,000,001 -$25,000,000	$25,000,001 -$50,000,000	Over $50,000,000
+				Purchase	Sale	Exchange												
+Identification of Assets																		
+s, Example: DC, or J			IBM Corp. (stock) NYSE	X			2/1fix		X			E	X	A	M	P	L	E
+			(DC) Microsoft (stock) NASDAQ/OTC		X		if 27 fix				X	E	X	A	M	P	L	E
+1	J	ITRON INC, stock, ITRI, $2,477.59		X			1/26/11	X										
+2	J	RS LOW DURATION BOND FD CL Y, RSDYX, $4,330.20			X		01/31/2011	X										
+3	J	FIA CARD SVS NA RASP, MERRILL LYNCH CASH RESERVE, IIAXX, $4,331.00		X			02/01/2011	X										
+4	J	FORD MOTOR CO, stock, F, $1,512.37			X		02/23/2011	X										
+5	J	TRW AUTOMOTIVE HLDGS CRP, stock, TRW, $2,211.77		X			02/23/2011	X										
+6	J	FIRST TRUST CONSUMER STAPLES ALPHADEX, ETF, FXG, $2,309.02			X		02/28/2011	X										
+7	J	CLIFFS NATURAL RESOURCES INC, stock, CLF, $2,256.48			X		02/28/2011	X										
+8	J	WESTERN DIGITAL CORP, stock, WDC, $2,170.48		X			02/28/2011	X										
+9	J	MOSAIC CO, stock, MOS, $2,141.81		X			02/28/2011	X										
+10	J	ITRON INC, stock, ITRI, $2,375.89			X		02/28/2011	X										
+11	J	T. ROWE PRICE GROUP INC, stock, TROW, $2,161.45		X			02/28/2011	X										
+12	J	BROADCOM CORP CALIF CL A, stock, BRCM, $2,918.66			X		02/28/2011	X										
+-EXEMPTION TEST (see instructions before marking box): If you omitted any asset because it meets the three-part test for exemption described in the instructions, please check box to the right. " This category applies only if the asset is/was held independently by the spouse or dependent child. If the asset is/was either held by the filer or jointly held, use the other categories of value, as appropriate.																		

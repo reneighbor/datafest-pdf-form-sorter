@@ -1,0 +1,21 @@
+﻿Repotting Individual's Name E. Benjamin Nelson		TRANSACTIONS (continued) (use only if needed)													3a08 Number 5	
+						Amount of Transaction (x)										
+identification of Assets		Transaction Type (x)			Transaction Date (Mo., Day, Yr.)	$1,001 -$15,000	$15,001 -$50,000	$50,001 -$100,000	$100,001 - $250,000	$250,001 - $500,000	$500,001 - $1,000,000	i ♦ o o o o 8 TV* V. <u > o	$1,000,001 - $5,000,000	$5,000,001 - $25,000,000	$25,000,001 - $50,000,000	Over $50,000,000
+		Purchase	V « W	Exchange												
+1	(s) McDonalds Corp (stock)	X			12-11-12		X									
+2	(s) Medtronic Inc. (stock)	X			12-11-12		X									
+3	(s) Microsoft Inc. (stock)	X			12-11-12		X									
+4	(s) Nextera Energy, Inc. (stock)	X			12-11-12		X									
+5	(s) Novartis AG ADR (stock)	X			12-11-12		X									
+6	(s) Omnicon Group Inc. (stock)	X			12-11-12	X										
+7	(s) Pepsico Inc. (stock)	X			12-11-12		X									
+8	(s) Phillip Morris Intl (stock)	X			12-11-12		X									
+9	(s) Proctor & Gamble (stock)	X			12-11-12		X									
+10	(s)Qualcomm Inc. (stock)	X			12-11-12		X									
+11	(s) Southern Co. (stock)	X			12-11-12		X									
+12	(s) Teva Pharmaceutical (stock)	X			12-11-12		X									
+13	(s) Texas Instruments (stock)	X			12-11-12	X										
+14	(s) 3M Co. (stock)	X			12-11-12		X									
+15	(s) The Travelers Co. (stock)	X			12-11-12		X									
+16	(s) Accenture PLC (stock)	X			12-11-12		X									
+17	(s) ACE Ltd (stock)	X			12-11-t2		X									

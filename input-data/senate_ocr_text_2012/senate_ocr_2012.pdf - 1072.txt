@@ -1,0 +1,15 @@
+﻿"Code" means the Internal Revenue Code of 1986, as amended from time to time, or any successor law.
+"Commodity Exchange Act" means the Commodity Exchange Act and the rules, regulations and orders under the Commodity Exchange Act, as amended from time to time, or any successor law.
+"Delaware Act" means the Delaware Revised Uniform Limited Partnership Act, as amended from time to time, or any successor law.
+"Directors" means those natural Persons designated as "Directors" in accordance with this Agreement who are delegated the authority provided for in this Agreement and includes David B. Perkins as the initial Director, or any other natural Persons. who, from time to time after the date of this Agreement, become Directors in accordance with the terms and conditions of this Agreement.
+"Fiscal Period" means the period commencing on the Closing Date, and thereafter each period commencing on the day immediately following the last day of the immediately preceding Fiscal Period, and ending in each case at the close of business on the first to occur of the following dates:
+(1)	the last day of any calendar quarter, including the last day of the calendar year;
+(2)	the day preceding the date as of which a contribution to the capital of the Partnership is made by any Partner in accordance with Section 5.1 of this Agreement;
+(3)	the day on which the Partnership repurchases Units of any Partner in accordance with Section 4.5 of this Agreement;
+(4)	the day as of which the Partnership admits a substituted Partner to whom or which Units of a Partner have been Transferred (unless the Transfer of the Units results in no change of beneficial ownership of the Units);
+(5)	the day as of which any amount is credited to or debited against the Capital Account of any Partner, other than an amount that is credited to or . debited against the Capital Accounts of all Partners in accordance with their respective Investment Percentages; or
+(6)	December 31, or any other date that is the last day of the taxable
+year of the Partnership.
+i
+"Fiscal Year" means the period commencing on the Closing Date and ending on March 31, 2005, and thereafter each period commencing on April 1 of each year and ending on March 31 of that year (or on the date of a final distribution made in accordance with
+-3-

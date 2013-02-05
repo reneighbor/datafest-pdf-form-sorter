@@ -1,0 +1,25 @@
+﻿MORGAN STANLEY CHARTER GRAHAM L.P.
+STATEMENTS OF CASH FLOWS
+_For the	Years Ended December 31,_.
+2007	2006	2005
+$	$	$
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income (loss)................................. 50,906,801	19,292,183	(78,211,095)
+Noncash item included in net income (loss):
+Net change in unrealized ...................... 12,743,529	(9,679,307)	(2,618,843)
+(Increase) decrease in operating assets:
+Restricted cash............................... 44,350,072	(26,297,125)	62,712,783
+Interest receivable (MS&Co.) ................... 688,008	(493,263)	(552,167)
+Increase (decrease) in operating liabilities:
+Accrued brokerage fees (MS&Co.) ............... 137,612	(70,688)	(141,612)
+Accrued management fees ..................... 45,871	(23,563)	(16,055)
+Net cash provided by (used for) operating activities . ,. 108,871,893	(17,271,763)	(18,826,989)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Cash received from offering of Units ................ 52,162,191	89,829,892	133,523,099
+Cash paid for redemptions of Units ................. (93,406,701)	(108,265,689)	(94,800,218)
+Net cash provided by (used for) financing activities . . . (41,244,510)	(18,435,797)	38,722,881
+Net increase (decrease) in unrestricted cash .......... 67,627,383	(35,707,560)	19,895,892
+Unrestricted cash at beginning of period............. 360,856,363	396,563,923	376,668,031
+Unrestricted cash at end of period .................. 428,483,746	360,856,363	396,563,923
+The accompanying notes are an integral part of these financial statements,
+F-15

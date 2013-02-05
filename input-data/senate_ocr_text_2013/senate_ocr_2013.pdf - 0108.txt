@@ -1,0 +1,55 @@
+﻿0&8SOS212 57
+Reporting IndivtduaTs Name:
+PERIODIC DISCLOSURE OF FINANCIAL TRANSACTIONS Paae No
+			TvoetXl			Date	Amount of T				run?	actio	nfXl				
+Identification of Assets			Purchase	Sale	(Exchange	Mo,Day,Yr	o S «> o o_ T-	$15,001 - $50,000	s o o o o o s"	$100,001 • $250,000	1 •o s s" <N	$500,001 - $1,000,000	Over $1,000,000	$1,000,000 - $5,000,000	$5,000,001 - $25,000,000	$25,000,000 - $50,000,000	Over $50,000,000
+1																	
+?																	
+a																	
+4		H. J. HEINZ III MARITAL TRUST															
+5																	
+6	S	CVS Caremark Corp	X			12/18/12		X									
+7	S	General Motors Co	X			12/19/12		X									
+8	S	Apache Corp		x		12/19/12		X									
+9	S	CVS Caremark Com		x		12/21/12		X									
+10	S	Comcast Corn CI A		x		12/26/12		X									
+11																	
+12	s	Cook Cntv III 5.0% 11/15/25		x		12/28/12						X					
+13	s	Bay Area Ca Toll Aut 0.0% 4/1/47		x		12/07/12				X							
+14	s	Lakeland Fl Enerov S 1.23% 10/1/14		x		12/27/12					X						
+15																	
+16		HEINZ FAMILY INVESTMENT BOND FUND															
+17	s	Cook Cnty III 5.0% 11/15/25		X		12/28/12						X					
+18	s	Bay Area Ca toll Aut 0.0% 4/1/47	X			12/07/12					X						
+19	s	Vermont St Eductnl & 0.17% 10/1/32	X			12/17/12			X								
+20	s	Lakeland Fl Enerav S 1.23% 10/01/14		X		12/27/12						X					
+21	s	Nevada St 5.0% 2/1/17		X		12/27/12						X					
+22	s	Vermont St Eductnl & 0.17% 10/1/32		X		12/20/12					X						
+23																	
+24		HEINZ FAMILY COMMINGLED STOCK FUND I															
+25																	
+26	s	CVS Caremark Corp	X			12/18/12		X									
+27	s	FedEx Corp	X			12/18/12		X									
+28	s	General Motors Co	X			12/19/12			X								
+29	s	Du Pont (E I) De Nemours		X		12/14/12		X									
+30	s	FedEx Corp		X		12/21/12				X							
+31	s	Metlife Inc		X		12/19/12		X									
+32																	
+33		HEINZ FAMILY COMMINGLED STOCK FUND III															
+34																	
+35	s	Microsoft Corporation	X			12/19/12				X							
+36																	
+37		HEINZ FAMILY COMMINGLED STOCK FUND IV															
+38		-															
+39	s	American Public Education Inc		X		12/26/12					X						
+40	s	American Tower Corp		X		12/26/12					X						
+41	s	Ansvs Inc		X		12/26/12							X				
+42	s	Celqene Corp		X		12/26/12					X						
+43	s	Clean Harbors Inc		X		12/26/12					X						
+44	s	Concho Resources Inc		X		12/26/12				X							
+45	s	Concur Technoloaies Inc		X		12/26/12						X					
+46	s	Costar Group Inc		X		12/26/12					X						
+47	s	Dealertrack Technologies Inc		X		12/26/12						X					
+48	s	Ecolab Inc		X		12/26/12						X					
+49																	
+50																	

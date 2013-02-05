@@ -1,0 +1,35 @@
+﻿
+INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule III Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31, 2011
+Initial Cost (A)	_Gross amount at which carried at end of period_
+1	Date of
+Completion
+Adjustments	of
+to Land	Construction
+Buildings and Basis Adjustments Land and Buildings and	Accumulated	or
+Encumbrance Land Improvements (C) to Basis (C) Improvements Improvements (D) Total (D,E) Depreciation (D,F) Acquisition
+CITIZENS (CFG) PENNSYLVANIA	548	650	614	—	(0)	650	614	1,264	103	2007
+Lancaster, PA										
+CITIZENS (CFG) PENNSYLVANIA	599	500	671	—	(0)	500	671	1,171	113	2007
+Lancaster, PA										
+CITIZENS (CFG) PENNSYLVANIA	481	200	538	—	(0)	200	538	738	90	2007
+Latrobe, PA										
+CITIZENS (CFG) PENNSYLVANIA	493	175	552	—	(0)	175	552	727	93	2007
+Lititz, PA										
+CITIZENS (CFG) PENNSYLVANIA	575	225	644	—	(0)	225	644	869	108	2007
+Lower Burrell, PA										
+CITIZENS (CFG) PENNSYLVANIA	484	210	542	—	(0)	210	542	752	91	2007
+Mountain Top, PA										
+CITIZENS (CFG) PENNSYLVANIA	246	125	275	—	(0)	125	275	400	46	2007
+Munhall, PA										
+CITIZENS (CFG) PENNSYLVANIA	615	500	688	—	(0)	500	688	1,188	116	2007
+New Stanton, PA										
+CITIZENS (CFG) PENNSYLVANIA	863	225	966	—	(0)	225	966	1,191	162	2007
+Oakmont, PA										
+CITIZENS (CFG) PENNSYLVANIA	479	50	536	—	(0)	50	536	586	90	2007
+Oil City, PA										
+CITIZENS (CFG) PENNSYLVANIA	609	225	682	—	(0)	225	682	907	115	2007
+Philadelphia, PA

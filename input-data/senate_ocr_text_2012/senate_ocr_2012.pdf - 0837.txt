@@ -1,0 +1,36 @@
+﻿888885^3 914
+INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule III Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31, 2011.
+Initial Cost (A)	_Gross amount at which carried at end of period_
+Date of Completion
+Adjustments	of
+to Land	Construction
+Buildings and Basis Adjustments Land and Buildings and	Accumulated	or
+Encumbrance Land Improvements (C) to Basis (C) Improvements Improvements (D) Total (D.E) Depreciation (D,F) Acquisition
+SUNTRUST BANK I FL	366	600	314	—	(0)	600	314	914	47	2007
+Mulberry, FL										
+SUNTRUST BANK I FL	645	1,060	553	—	(0)	1,060	553	1,613	83	2007
+Indian Harbour Beach, FL										
+SUNTRUST BANK IFL	833	500	715	—	(0)	500	715	1,215	107	2007
+Inverness, FL										
+SUNTRUST BANK IFL	1,656	2,100	1,422	—	(0)	2,100	1,422	3,522	213	2007
+Lake Mary, FL										
+SUNTRUST BANK I FL	765	910	656	—	(0)	910	656	1,566	98	2007
+Melbourne, FL										
+SUNTRUST BANK I FL	611	1,000	525	—	(0)	1,000	524	1,524	79	2007
+St. Petersburg, FL										
+SUNTRUST BANK I FL	552	1,100	474	—	(0)	1,100	473	1,573	71	2007
+Lutz, FL										
+SUNTRUST BANK I FL	979	275	841	—	(0)	275	841	1,116	126	2007
+Marianna, FL										
+SUNTRUST BANK I FL	396	730	340	—	(0)	730	340	1,070	51	2007
+Gainesville, FL										
+SUNTRUST BANK I FL	1,141	900	979	—	(0)	900	979	1,879	147	2007
+Vero Beach, FL										
+SUNTRUST BANK I FL	899	500	772	—	(0)	500	772	1,272	116	2007
+Mount Dora, FL										
+SUNTRUST BANK I FL	990	1,800	850	—	(0)	1,800	850	2,650	127	2007
+Sarasota, FL

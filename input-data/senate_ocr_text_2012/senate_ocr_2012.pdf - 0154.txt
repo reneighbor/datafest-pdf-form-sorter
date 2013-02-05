@@ -1,0 +1,38 @@
+﻿Christopher A. Coons CRU
+As of 12/31/2011
+Security Description	Total Value
+Htfd Ttl Return Bond	37,390.88
+AlBern VPS IntlVal	30,742.39
+Htfd Intl Opp HLS	18,818.82
+Put VT Intl Equity	28,306.54
+AlBern VPS Val	19,826.96
+Fidelity VIP Equity-lncm	20,009.76
+Fidelity VIP Grwth	9,750.44
+Htfd Disciplined Eqty HLS	91,287.66
+Invesco VK VI Comstock	13,222.32
+Oppen Cap App VA	9,732.98
+Oppen Main St SmMidCap	23,584.27
+Put VTSmCapVal	20,317.11
+TOTAL	322,990.13
+Checking	24,619.59
+Ann M. Coons CRU
+As of 12/31/2011
+Security Description	Total Value
+Htfd Ttl Return Bond	15,512.15
+AlBern VPS Intl Val	12,753.93
+Htfd Intl Opp HLS	7,807.26
+Put VT Intl Equity	11,743.38
+AlBern VPS Val	8,225.49
+Fidelity VIP Equity-lncm	8,301.34
+Fidelity VIP Grwth	4,045.11
+Htfd Disciplined Eqty HLS	37,872.00
+Htfd SmCap Grwth HLS	5,508.28
+Invesco VK VI Comstock	5,485.47
+0 Oppen Cap App VA	4,037.87
+0 Oppen Main St SmMidCap	6,988.77
+Put VTSmCapVal	5,619.25
+iM 0
+to	TOTAL	133,900.30
+0	Checking	20,373.08
+0 0 O
+o

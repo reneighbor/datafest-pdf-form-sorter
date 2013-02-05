@@ -1,0 +1,11 @@
+﻿Margin. A good faith deposit with a broker to assure fulfillment of a purchase or sale of a futures, forward or options contract. Margins on these contracts do not usually involve the payment of interest.
+Margin call. A demand for additional funds after the initial good faith deposit required to maintain a customer's account in compliance with the requirements of a particular commodity exchange or of a commodity broker.
+Non-Series Exchange. The use of proceeds from the redemption of interests from another commodity pool for which Demeter Management Corporation acts as general partner and commodity pool operator to acquire units in one or more of the Charter Series partnerships.
+Open position. A contractual commitment arising under a long contract or a short contract that has not been extinguished by an offsetting trade or by delivery.
+Option on a futures contract. A contract that gives the purchaser of the option, in exchange for a one-time payment known as premium, the right, but not the obligation, to buy or sell a futures contract at a specified price within a specified period of time. The seller of an option on a futures contract receives the premium payment and has the obligation to buy or sell the futures contract, if the option is exercised, at the specified price within the specified period of time.
+Parameters. A value that can be freely assigned in a trading system in order to vary the timing of signals.
+Short contract or short position. A contract to make delivery of (sell) a specified amount of a commodity, product, instrument or index at a future date at a specified price.
+Speculative position limit. The maximum number of speculative futures or option contracts in any one commodity (on one exchange), imposed by the CFTC or a U.S. commodity exchange, that can be held or controlled at one time by one person or a group of persons acting together. These limits generally are not imposed for trading on markets or exchanges outside the U.S.
+Support. A previous low. A price level under the market where buying interest is sufficiently strong to,overcome selling pressure.
+Trading advisor. Any person or entity that provides advice as to the purchase or sale of futures or options contracts. A commodity trading advisor must register under the Commodity Exchange Act.
+178

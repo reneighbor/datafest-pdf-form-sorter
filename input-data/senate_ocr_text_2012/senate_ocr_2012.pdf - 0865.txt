@@ -1,0 +1,34 @@
+﻿0O8OOS9 3 94 2
+INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule HI Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31, 2011
+Initial Cost (A)	_Gross amount at which carried at end of period_
+Date of Completion
+Adjustments	of
+to Land	Construction
+Buildings and Basis Adjustments Land and Buildings and	Accumulated	or
+Encumbrance Land Improvements (C) to Basis (C) Improvements Improvements (D) Total (D,E) Depreciation (D.F) Acquisition
+SUNTRUST HI GEORGIA	921	802	686	—	—	802	686	1,488	94	2008
+Jonesboro, GA										
+SUNTRUST HI GEORGIA	1,830	1,593	1,362	—	—	1,593	1,362	2,955	187	2008
+Lawrenceville, GA										
+SUNTRUST III GEORGIA	836	728	622	—	—	728	622	1,351	86	2008
+Marietta, GA										
+SUNTRUST UI GEORGIA	736	641	548	—	—	641	548	1,189	75	2008
+Norcross, GA										
+SUNTRUST HI GEORGIA	892	777	664	—	—	111	664	1,441	91	2008
+Tucker, GA										
+SUNTRUST III GEORGIA	1,436	1,251	1,069	—	—	1,251	1,069	2,320	147	2008
+Warner Robins, GA										
+SUNTRUST III GEORGIA	1,205	1,050	897	—	—	1,050	897	1,947	123	2008
+Woodstock, GA										
+SUNTRUST ffl GEORGIA	381	332	284	—	—	332	284	615	39	2008
+Macon, GA										
+SUNTRUST III MARYLAND	1,187	563	1,427	—	—	563	1,427	1,989	196	2008
+Bladensburg, MD										
+SUNTRUST UI MARYLAND	776	368	933	—	—	368	933	1,301	128	2008
+Chestertown, MD										
+SUNTRUST m MARYLAND	1,623	770	1,952	—	—	770	1,952	2,721	268	2008
+Upper Marlboro, MD										

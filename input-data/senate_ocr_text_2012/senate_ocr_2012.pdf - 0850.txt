@@ -1,0 +1,36 @@
+﻿880885^3^27
+INLAND AMERICAN REAL ESTATE TRUST, INC.
+(A Maryland Corporation)
+Schedule in Real Estate and Accumulated Depreciation
+(Dollar amounts in thousands)
+December 31, 2011
+Initial Cost (A)	_Gross amount at which carried at end of period_
+Date of Completion
+Adjustments	of
+to Land	Construction
+Buildings and Basis Adjustments Land and Buildings and	Accumulated	or
+Encumbrance Land Improvements (C) to Basis (C) Improvements Improvements (D) Total (D.E) Depreciation (D.F) Acquisition
+SUNTRUST BANK I TN	238	391	265	■ —	(0)	391	265	657	40	2007
+Murfreesboro, TN										
+SUNTRUST BANK ITN	151	180	168	—	(0)	180	168	-- 348	25	2007
+Johnson City, TN										
+SUNTRUST BANK I TN	249	453	278	—	(0)	453	278	730	42	2007
+Chattanooga, TN										
+SUNTRUST BANK I TN	407	620	454	—	(0)	620	454	1,074	68	2007
+Nashville, TN										
+SUNTRUST BANK I VA	205	30	260	—	(0)	30	260	290	39	2007
+Accomac, VA										
+SUNTRUST BANK I VA	241	300	306	—	(0)	300	306	606	46	2007
+Richmond, VA										
+SUNTRUST BANK I VA	1,299	1,000	1,647	—	(0)	1,000	1,647	2,647	247	2007
+Fairfax, VA										
+SUNTRUST BANK I VA	799	1,000	1,012	—	(0)	1,000	1,012	2,012	152	2007
+Fredericksburg, VA										
+SUNTRUST BANK I VA	231	500	292	—	(0)	500	292	792	44	2007
+Richmond, VA										
+SUNTRUST BANK I VA	303	140	384	—	(0)	140	384	524	57	2007
+Collinsville, VA										
+SUNTRUST BANK I VA	273	150	346	—	(0)	150	346	496	52	2007
+Doswell, VA										
+SUNTRUST BANK I VA	779	380	988	—	(0)	380	987	1,367	148	2007
+Lynchburg, VA
